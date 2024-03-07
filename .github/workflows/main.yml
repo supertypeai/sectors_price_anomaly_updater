@@ -1,4 +1,4 @@
-name: Update Anomally Stock Price
+name: Update Anomaly Stock Price
 
 on:
   schedule:
