@@ -1,4 +1,4 @@
-name: Update subsector P/E Value, Health & Resilience Index, & Growth Index description weekly
+name: Update Anomally Stock Price
 
 on:
   schedule:
