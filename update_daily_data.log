@@ -105,3 +105,24 @@
 2024-04-01 05:37:50,376 - INFO: The data for SCCO.JK on 2024-03-06 is changed from 9775 to 2444
 2024-04-01 05:37:50,376 - INFO: The data for TMAS.JK on 2023-05-22 is not changed based on the new fetching although it has anomally
 2024-04-01 05:37:50,376 - INFO: Program has finished
+2024-04-08 02:23:26,687 - INFO: Program started
+2024-04-08 02:23:29,227 - INFO: The data that has anomaly successfully fetched from the DB
+2024-04-08 02:23:31,436 - INFO: Finished Fetching New Data
+2024-04-08 02:23:31,439 - INFO: The data for ARGO.JK on 2023-05-17 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:31,724 - INFO: The data for BPTR.JK on 2023-01-04 is changed from 220 to 134
+2024-04-08 02:23:32,474 - INFO: The data for FMII.JK on 2023-01-03 is changed from 230 to 112
+2024-04-08 02:23:32,474 - INFO: The data for MAIN.JK on 2022-06-14 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:32,474 - INFO: The data for MKNT.JK on 2023-12-13 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:32,474 - INFO: The data for POLU.JK on 2024-03-27 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:32,474 - INFO: The data for SCCO.JK on 2024-03-07 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:32,474 - INFO: The data for TMAS.JK on 2023-05-23 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:32,474 - INFO: The data for TMAS.JK on 2023-05-24 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:33,225 - INFO: The data for ARGO.JK on 2023-05-16 is changed from 520 to 900
+2024-04-08 02:23:33,225 - INFO: The data for BPTR.JK on 2023-01-03 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:33,226 - INFO: The data for FMII.JK on 2023-01-02 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:33,226 - INFO: The data for MAIN.JK on 2022-06-13 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:33,226 - INFO: The data for MKNT.JK on 2023-12-12 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:33,983 - INFO: The data for POLU.JK on 2024-03-26 is changed from 382 to 595
+2024-04-08 02:23:34,765 - INFO: The data for SCCO.JK on 2024-03-06 is changed from 9775 to 2444
+2024-04-08 02:23:34,765 - INFO: The data for TMAS.JK on 2023-05-22 is not changed based on the new fetching although it has anomally
+2024-04-08 02:23:34,765 - INFO: Program has finished
