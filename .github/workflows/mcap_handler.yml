@@ -29,7 +29,7 @@ jobs:
       env:
         SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
         SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-      run: python null_market_cap.py
+      run: python null_marketcap.py
    
     - name: commit files
       run: |
