@@ -41,21 +41,24 @@ today_date = datetime.today().date()
 data = supabase.table("idx_daily_data").select("*").eq("date",today_date.strftime("%Y-%m-%d")).is_("close", "null").execute()
 data = pd.DataFrame(data.data)
 
-response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
-mcap_data = supabase.table('idx_daily_data').select('symbol',"close","market_cap").eq("date",pd.DataFrame(response.data).date.unique()[1]).in_('symbol', data["symbol"]).execute()
+if data.shape[0] > 0:
+    response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
+    mcap_data = supabase.table('idx_daily_data').select('symbol',"close","market_cap").eq("date",pd.DataFrame(response.data).date.unique()[1]).in_('symbol', data["symbol"]).execute()
 
-df_hist = pd.DataFrame(mcap_data.data)
+    df_hist = pd.DataFrame(mcap_data.data)
 
-df_hist["outstanding_shares"] = df_hist["market_cap"]/df_hist['close']
+    df_hist["outstanding_shares"] = df_hist["market_cap"]/df_hist['close']
 
-data = data.merge(df_hist[["symbol","outstanding_shares"]], on="symbol", how="left")
-data["market_cap"] = data["close"] * data["outstanding_shares"]
+    data = data.merge(df_hist[["symbol","outstanding_shares"]], on="symbol", how="left")
+    data["market_cap"] = data["close"] * data["outstanding_shares"]
 
-data.market_cap = data.market_cap.astype("int")
+    data.market_cap = data.market_cap.astype("int")
 
-for i in range (0,data.shape[0]):
-    supabase.table("idx_daily_data").update(
-                {"market_cap": convert_numpy_int64(data.iloc[i].market_cap)}
-            ).eq("symbol", data.iloc[i].symbol).eq("date", data.iloc[i].date).execute() 
-    
-    logging.info(f"Update Market Cap Value for {data.iloc[i].symbol} on {data.iloc[i].date}")
+    for i in range (0,data.shape[0]):
+        supabase.table("idx_daily_data").update(
+                    {"market_cap": convert_numpy_int64(data.iloc[i].market_cap)}
+                ).eq("symbol", data.iloc[i].symbol).eq("date", data.iloc[i].date).execute() 
+        
+        logging.info(f"Update Market Cap Value for {data.iloc[i].symbol} on {data.iloc[i].date}")
+elif data.shape == 0:
+    logging.info(f"No Null Data Found, all market_cap in {today_date} is non-null data")
