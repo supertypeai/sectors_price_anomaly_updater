@@ -19,3 +19,6 @@
 2024-07-18 14:07:14,054 - INFO: No null values at every stock on 2024-07-18
 2024-07-18 15:03:11,190 - INFO: Program Filling Null Market Cap Started
 2024-07-18 15:09:53,396 - INFO: Program Filling Null Market Cap Started
+2024-07-19 14:08:22,404 - INFO: Program started
+2024-07-19 14:08:25,160 - ERROR: 574 tickers are scraped not same with number of active stock
+2024-07-19 14:08:25,161 - INFO: No null values at every stock on 2024-07-19
