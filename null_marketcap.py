@@ -38,7 +38,7 @@ initiate_logging(LOG_FILENAME)
 
 today_date = datetime.today().date()
 
-data = supabase.table("idx_daily_data").select("*").eq("date",today_date.strftime("%Y-%m-%d")).is_("close", "null").execute()
+data = supabase.table("idx_daily_data").select("*").eq("date",today_date.strftime("%Y-%m-%d")).is_("market_cap", "null").execute()
 data = pd.DataFrame(data.data)
 
 if data.shape[0] > 0:
