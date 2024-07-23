@@ -96,3 +96,6 @@
 2024-07-23 12:03:06,221 - INFO: Update Market Cap Value for ARMY.JK on 2024-07-22
 2024-07-23 12:03:06,449 - INFO: Update Market Cap Value for DUCK.JK on 2024-07-22
 2024-07-23 12:03:06,668 - INFO: Update Market Cap Value for LCGP.JK on 2024-07-22
+2024-07-23 14:07:16,310 - INFO: Program started
+2024-07-23 14:07:18,929 - ERROR: 838 tickers are scraped not same with number of active stock
+2024-07-23 14:07:18,930 - INFO: No null values at every stock on 2024-07-23
