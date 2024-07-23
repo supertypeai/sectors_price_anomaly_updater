@@ -38,13 +38,14 @@ initiate_logging(LOG_FILENAME)
 
 today_date = datetime.today().date()
 
-data = supabase.table("idx_daily_data").select("*").eq("date",today_date.strftime("%Y-%m-%d")).is_("market_cap", "null").execute()
+response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
+
+data = supabase.table("idx_daily_data").select("*").eq("date",pd.DataFrame(response.data).date.unique()[0]).is_("market_cap", "null").execute()
 data = pd.DataFrame(data.data)
 
-if data.shape[0] > 0:
-    response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
-    mcap_data = supabase.table('idx_daily_data').select('symbol',"close","market_cap").eq("date",pd.DataFrame(response.data).date.unique()[1]).in_('symbol', data["symbol"]).execute()
+mcap_data = supabase.table('idx_daily_data').select('symbol',"close","market_cap").eq("date",pd.DataFrame(response.data).date.unique()[1]).in_('symbol', data["symbol"]).execute()
 
+if data.shape[0] > 0:
     df_hist = pd.DataFrame(mcap_data.data)
 
     df_hist["outstanding_shares"] = df_hist["market_cap"]/df_hist['close']
