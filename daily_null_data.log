@@ -181,3 +181,6 @@
 2024-07-24 03:19:22,772 - INFO: Update Market Cap Value for LCGP.JK on 2024-07-23
 2024-07-24 03:19:23,133 - INFO: Update Market Cap Value for TRIL.JK on 2024-07-23
 2024-07-24 03:19:23,489 - INFO: Update Market Cap Value for TOYS.JK on 2024-07-23
+2024-07-24 14:07:38,115 - INFO: Program started
+2024-07-24 14:07:40,533 - ERROR: 709 tickers are scraped not same with number of active stock
+2024-07-24 14:07:40,533 - INFO: No null values at every stock on 2024-07-24
