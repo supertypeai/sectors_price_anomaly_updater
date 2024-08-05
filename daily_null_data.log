@@ -530,3 +530,6 @@
 2024-08-04 14:36:15,650 - INFO: Update Market Cap Value for DUCK.JK on 2024-08-02
 2024-08-04 14:36:15,983 - INFO: Update Market Cap Value for LCGP.JK on 2024-08-02
 2024-08-04 14:36:16,299 - INFO: Update Market Cap Value for TRIL.JK on 2024-08-02
+2024-08-05 14:07:11,970 - INFO: Program started
+2024-08-05 14:07:14,514 - ERROR: 569 tickers are scraped not same with number of active stock
+2024-08-05 14:07:14,514 - INFO: No null values at every stock on 2024-08-05
