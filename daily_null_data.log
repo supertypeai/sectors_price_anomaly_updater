@@ -662,3 +662,6 @@
 2024-08-07 04:32:12,666 - INFO: Update Market Cap Value for SMRU.JK on 2024-08-06
 2024-08-07 04:32:13,032 - INFO: Update Market Cap Value for MABA.JK on 2024-08-06
 2024-08-07 04:32:13,394 - INFO: Update Market Cap Value for META.JK on 2024-08-06
+2024-08-07 14:07:10,848 - INFO: Program started
+2024-08-07 14:07:13,762 - ERROR: 832 tickers are scraped not same with number of active stock
+2024-08-07 14:07:13,763 - INFO: No null values at every stock on 2024-08-07
