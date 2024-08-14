@@ -992,3 +992,6 @@
 2024-08-14 03:27:12,396 - INFO: Update Market Cap Value for RIMO.JK on 2024-08-13
 2024-08-14 03:27:12,715 - INFO: Update Market Cap Value for SMRU.JK on 2024-08-13
 2024-08-14 03:27:13,035 - INFO: Update Market Cap Value for HOTL.JK on 2024-08-13
+2024-08-14 14:07:44,591 - INFO: Program started
+2024-08-14 14:07:46,940 - ERROR: 710 tickers are scraped not same with number of active stock
+2024-08-14 14:07:46,940 - INFO: No null values at every stock on 2024-08-14
