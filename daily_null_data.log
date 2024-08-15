@@ -1058,3 +1058,6 @@
 2024-08-15 03:20:29,845 - INFO: Update Market Cap Value for HOTL.JK on 2024-08-14
 2024-08-15 03:20:30,164 - INFO: Update Market Cap Value for HDTX.JK on 2024-08-14
 2024-08-15 03:20:30,477 - INFO: Update Market Cap Value for LCGP.JK on 2024-08-14
+2024-08-15 14:06:42,799 - INFO: Program started
+2024-08-15 14:06:45,794 - ERROR: 834 tickers are scraped not same with number of active stock
+2024-08-15 14:06:45,795 - INFO: No null values at every stock on 2024-08-15
