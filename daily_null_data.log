@@ -1124,3 +1124,6 @@
 2024-08-16 03:18:54,506 - INFO: Update Market Cap Value for TDPM.JK on 2024-08-15
 2024-08-16 03:18:54,831 - INFO: Update Market Cap Value for MYRX.JK on 2024-08-15
 2024-08-16 03:18:55,149 - INFO: Update Market Cap Value for ARMY.JK on 2024-08-15
+2024-08-16 14:06:39,485 - INFO: Program started
+2024-08-16 14:06:42,576 - ERROR: 702 tickers are scraped not same with number of active stock
+2024-08-16 14:06:42,577 - INFO: No null values at every stock on 2024-08-16
