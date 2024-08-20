@@ -1256,3 +1256,6 @@
 2024-08-20 03:32:13,543 - INFO: Update Market Cap Value for MYRX.JK on 2024-08-19
 2024-08-20 03:32:13,899 - INFO: Update Market Cap Value for HDTX.JK on 2024-08-19
 2024-08-20 03:32:14,261 - INFO: Update Market Cap Value for LCGP.JK on 2024-08-19
+2024-08-20 14:07:23,750 - INFO: Program started
+2024-08-20 14:07:26,014 - ERROR: 506 tickers are scraped not same with number of active stock
+2024-08-20 14:07:26,015 - INFO: No null values at every stock on 2024-08-20
