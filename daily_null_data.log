@@ -1391,3 +1391,6 @@
 2024-08-22 04:07:29,518 - INFO: Update Market Cap Value for TRIL.JK on 2024-08-21
 2024-08-22 04:07:29,872 - INFO: Update Market Cap Value for WSKT.JK on 2024-08-21
 2024-08-22 04:07:30,701 - INFO: Update Market Cap Value for HOTL.JK on 2024-08-21
+2024-08-22 14:06:40,618 - INFO: Program started
+2024-08-22 14:06:42,783 - ERROR: 566 tickers are scraped not same with number of active stock
+2024-08-22 14:06:42,784 - INFO: No null values at every stock on 2024-08-22
