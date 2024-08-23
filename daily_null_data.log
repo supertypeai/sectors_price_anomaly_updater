@@ -1456,3 +1456,6 @@
 2024-08-23 04:12:32,339 - INFO: Update Market Cap Value for SRIL.JK on 2024-08-22
 2024-08-23 04:12:32,702 - INFO: Update Market Cap Value for HOTL.JK on 2024-08-22
 2024-08-23 04:12:33,068 - INFO: Update Market Cap Value for LCGP.JK on 2024-08-22
+2024-08-23 14:06:53,333 - INFO: Program started
+2024-08-23 14:06:55,924 - ERROR: 566 tickers are scraped not same with number of active stock
+2024-08-23 14:06:55,924 - INFO: No null values at every stock on 2024-08-23
