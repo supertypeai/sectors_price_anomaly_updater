@@ -1524,3 +1524,64 @@
 2024-08-26 14:07:40,811 - INFO: Program started
 2024-08-26 14:07:43,994 - ERROR: 710 tickers are scraped not same with number of active stock
 2024-08-26 14:07:43,995 - INFO: No null values at every stock on 2024-08-26
+2024-08-27 03:18:58,506 - INFO: Program add incomplete stock started
+2024-08-27 03:21:23,335 - INFO: Finish add 226 missing stocks data for 2024-08-26 in idx_daily_data_table
+2024-08-27 03:21:24,136 - INFO: Program Filling Null Market Cap Started
+2024-08-27 03:21:25,723 - INFO: Update Market Cap Value for JKSW.JK on 2024-08-26
+2024-08-27 03:21:26,024 - INFO: Update Market Cap Value for ETWA.JK on 2024-08-26
+2024-08-27 03:21:26,352 - INFO: Update Market Cap Value for GAMA.JK on 2024-08-26
+2024-08-27 03:21:26,671 - INFO: Update Market Cap Value for KRAH.JK on 2024-08-26
+2024-08-27 03:21:26,990 - INFO: Update Market Cap Value for DUCK.JK on 2024-08-26
+2024-08-27 03:21:27,306 - INFO: Update Market Cap Value for FORZ.JK on 2024-08-26
+2024-08-27 03:21:27,636 - INFO: Update Market Cap Value for JSKY.JK on 2024-08-26
+2024-08-27 03:21:27,955 - INFO: Update Market Cap Value for MAGP.JK on 2024-08-26
+2024-08-27 03:21:28,279 - INFO: Update Market Cap Value for COWL.JK on 2024-08-26
+2024-08-27 03:21:28,603 - INFO: Update Market Cap Value for SKYB.JK on 2024-08-26
+2024-08-27 03:21:28,906 - INFO: Update Market Cap Value for POOL.JK on 2024-08-26
+2024-08-27 03:21:29,222 - INFO: Update Market Cap Value for LMAS.JK on 2024-08-26
+2024-08-27 03:21:29,554 - INFO: Update Market Cap Value for KAYU.JK on 2024-08-26
+2024-08-27 03:21:29,853 - INFO: Update Market Cap Value for MTFN.JK on 2024-08-26
+2024-08-27 03:21:30,161 - INFO: Update Market Cap Value for HOME.JK on 2024-08-26
+2024-08-27 03:21:30,483 - INFO: Update Market Cap Value for GOLL.JK on 2024-08-26
+2024-08-27 03:21:30,812 - INFO: Update Market Cap Value for TRAM.JK on 2024-08-26
+2024-08-27 03:21:31,144 - INFO: Update Market Cap Value for KBRI.JK on 2024-08-26
+2024-08-27 03:21:31,449 - INFO: Update Market Cap Value for KPAL.JK on 2024-08-26
+2024-08-27 03:21:31,757 - INFO: Update Market Cap Value for META.JK on 2024-08-26
+2024-08-27 03:21:32,078 - INFO: Update Market Cap Value for SIMA.JK on 2024-08-26
+2024-08-27 03:21:32,413 - INFO: Update Market Cap Value for TECH.JK on 2024-08-26
+2024-08-27 03:21:32,710 - INFO: Update Market Cap Value for MYRX.JK on 2024-08-26
+2024-08-27 03:21:33,035 - INFO: Update Market Cap Value for POSA.JK on 2024-08-26
+2024-08-27 03:21:33,359 - INFO: Update Market Cap Value for OCAP.JK on 2024-08-26
+2024-08-27 03:21:33,672 - INFO: Update Market Cap Value for NIPS.JK on 2024-08-26
+2024-08-27 03:21:33,992 - INFO: Update Market Cap Value for BTEL.JK on 2024-08-26
+2024-08-27 03:21:34,310 - INFO: Update Market Cap Value for CBMF.JK on 2024-08-26
+2024-08-27 03:21:34,622 - INFO: Update Market Cap Value for SUGI.JK on 2024-08-26
+2024-08-27 03:21:34,944 - INFO: Update Market Cap Value for PLAS.JK on 2024-08-26
+2024-08-27 03:21:35,361 - INFO: Update Market Cap Value for MABA.JK on 2024-08-26
+2024-08-27 03:21:35,672 - INFO: Update Market Cap Value for UNIT.JK on 2024-08-26
+2024-08-27 03:21:35,995 - INFO: Update Market Cap Value for MTRA.JK on 2024-08-26
+2024-08-27 03:21:36,312 - INFO: Update Market Cap Value for PRAS.JK on 2024-08-26
+2024-08-27 03:21:36,619 - INFO: Update Market Cap Value for DEAL.JK on 2024-08-26
+2024-08-27 03:21:36,936 - INFO: Update Market Cap Value for DEFI.JK on 2024-08-26
+2024-08-27 03:21:37,240 - INFO: Update Market Cap Value for IIKP.JK on 2024-08-26
+2024-08-27 03:21:37,550 - INFO: Update Market Cap Value for TRIO.JK on 2024-08-26
+2024-08-27 03:21:37,886 - INFO: Update Market Cap Value for PURE.JK on 2024-08-26
+2024-08-27 03:21:38,210 - INFO: Update Market Cap Value for SCPI.JK on 2024-08-26
+2024-08-27 03:21:38,522 - INFO: Update Market Cap Value for MAMI.JK on 2024-08-26
+2024-08-27 03:21:38,848 - INFO: Update Market Cap Value for CPRI.JK on 2024-08-26
+2024-08-27 03:21:39,156 - INFO: Update Market Cap Value for KPAS.JK on 2024-08-26
+2024-08-27 03:21:39,474 - INFO: Update Market Cap Value for HKMU.JK on 2024-08-26
+2024-08-27 03:21:39,788 - INFO: Update Market Cap Value for WMPP.JK on 2024-08-26
+2024-08-27 03:21:40,097 - INFO: Update Market Cap Value for TDPM.JK on 2024-08-26
+2024-08-27 03:21:40,413 - INFO: Update Market Cap Value for ENVY.JK on 2024-08-26
+2024-08-27 03:21:40,726 - INFO: Update Market Cap Value for RIMO.JK on 2024-08-26
+2024-08-27 03:21:41,051 - INFO: Update Market Cap Value for BOSS.JK on 2024-08-26
+2024-08-27 03:21:41,353 - INFO: Update Market Cap Value for NUSA.JK on 2024-08-26
+2024-08-27 03:21:41,671 - INFO: Update Market Cap Value for SMRU.JK on 2024-08-26
+2024-08-27 03:21:41,976 - INFO: Update Market Cap Value for WSKT.JK on 2024-08-26
+2024-08-27 03:21:42,285 - INFO: Update Market Cap Value for SRIL.JK on 2024-08-26
+2024-08-27 03:21:42,605 - INFO: Update Market Cap Value for HDTX.JK on 2024-08-26
+2024-08-27 03:21:42,999 - INFO: Update Market Cap Value for HOTL.JK on 2024-08-26
+2024-08-27 03:21:43,315 - INFO: Update Market Cap Value for ARMY.JK on 2024-08-26
+2024-08-27 03:21:43,644 - INFO: Update Market Cap Value for LCGP.JK on 2024-08-26
+2024-08-27 03:21:43,970 - INFO: Update Market Cap Value for TRIL.JK on 2024-08-26
