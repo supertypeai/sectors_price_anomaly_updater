@@ -1649,3 +1649,6 @@
 2024-08-28 03:19:38,877 - INFO: Update Market Cap Value for TRIL.JK on 2024-08-27
 2024-08-28 03:19:39,227 - INFO: Update Market Cap Value for SMRU.JK on 2024-08-27
 2024-08-28 03:19:39,583 - INFO: Update Market Cap Value for HOTL.JK on 2024-08-27
+2024-08-28 14:07:44,664 - INFO: Program started
+2024-08-28 14:07:47,188 - ERROR: 577 tickers are scraped not same with number of active stock
+2024-08-28 14:07:47,189 - INFO: No null values at every stock on 2024-08-28
