@@ -1713,3 +1713,6 @@
 2024-08-29 04:19:38,167 - INFO: Update Market Cap Value for HOTL.JK on 2024-08-28
 2024-08-29 04:19:38,521 - INFO: Update Market Cap Value for LCGP.JK on 2024-08-28
 2024-08-29 04:19:38,879 - INFO: Update Market Cap Value for TRIL.JK on 2024-08-28
+2024-08-29 14:08:29,903 - INFO: Program started
+2024-08-29 14:08:33,072 - ERROR: 831 tickers are scraped not same with number of active stock
+2024-08-29 14:08:33,073 - INFO: No null values at every stock on 2024-08-29
