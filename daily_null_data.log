@@ -1777,3 +1777,6 @@
 2024-08-30 03:21:41,484 - INFO: Update Market Cap Value for ARMY.JK on 2024-08-29
 2024-08-30 03:21:42,341 - INFO: Update Market Cap Value for LCGP.JK on 2024-08-29
 2024-08-30 03:21:42,773 - INFO: Update Market Cap Value for TRIL.JK on 2024-08-29
+2024-08-30 14:07:10,133 - INFO: Program started
+2024-08-30 14:07:13,207 - ERROR: 573 tickers are scraped not same with number of active stock
+2024-08-30 14:07:13,207 - INFO: No null values at every stock on 2024-08-30
