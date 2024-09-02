@@ -1841,3 +1841,6 @@
 2024-08-31 03:25:02,017 - INFO: Update Market Cap Value for SMRU.JK on 2024-08-30
 2024-08-31 03:25:02,388 - INFO: Update Market Cap Value for HDTX.JK on 2024-08-30
 2024-08-31 03:25:02,747 - INFO: Update Market Cap Value for ARMY.JK on 2024-08-30
+2024-09-02 14:07:29,197 - INFO: Program started
+2024-09-02 14:07:32,175 - ERROR: 707 tickers are scraped not same with number of active stock
+2024-09-02 14:07:32,176 - INFO: No null values at every stock on 2024-09-02
