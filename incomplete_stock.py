@@ -62,6 +62,7 @@ if daily_data.shape[0] != active_stock.shape[0]:
 
         df_na = pd.concat([df_na,a])
 
+    df_na["Date"] = pd.to_datetime(df_na["Date"]
     df_na["Date"] = df_na["Date"].dt.strftime("%Y-%m-%d")
     df_na["update_on"] = pd.Timestamp.now(tz="GMT").strftime("%Y-%m-%d %H:%M:%S")
     df_na["mcap_method"] = 1
