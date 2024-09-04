@@ -1907,3 +1907,6 @@
 2024-09-03 14:07:31,980 - INFO: Program started
 2024-09-03 14:07:34,665 - ERROR: 443 tickers are scraped not same with number of active stock
 2024-09-03 14:07:34,666 - INFO: No null values at every stock on 2024-09-03
+2024-09-04 14:07:29,871 - INFO: Program started
+2024-09-04 14:07:32,439 - ERROR: 837 tickers are scraped not same with number of active stock
+2024-09-04 14:07:32,439 - INFO: No null values at every stock on 2024-09-04
