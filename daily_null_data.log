@@ -2036,3 +2036,6 @@
 2024-09-09 09:24:50,343 - INFO: Update Market Cap Value for HOTL.JK on 2024-09-06
 2024-09-09 09:24:50,701 - INFO: Update Market Cap Value for ARMY.JK on 2024-09-06
 2024-09-09 09:24:51,058 - INFO: Update Market Cap Value for LCGP.JK on 2024-09-06
+2024-09-09 14:09:08,184 - INFO: Program started
+2024-09-09 14:09:10,611 - ERROR: 710 tickers are scraped not same with number of active stock
+2024-09-09 14:09:10,611 - INFO: No null values at every stock on 2024-09-09
