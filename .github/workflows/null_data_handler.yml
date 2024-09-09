@@ -1,8 +1,8 @@
-name: Null Price and Volume Handler
+name: Null Price Notification
 
 on:
   schedule:
-    - cron: '0 14 * * 1-5' # Run every weekdat at 9pm (Western Indonesia Time)
+    - cron: '0 4 * * 1-5' # Run every weekdat at 11am (Western Indonesia Time)
   
   workflow_dispatch:
       
