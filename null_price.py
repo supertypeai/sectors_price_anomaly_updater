@@ -60,11 +60,12 @@ def send_email(daily_data, active_stock,today_date):
 
 initiate_logging(LOG_FILENAME)
 
-today_date = datetime.today().date()
+response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
+today_date = pd.DataFrame(response.data).date.unique()[0]
 
-id_data = supabase.table("idx_daily_data").select("*").eq("date",today_date.strftime("%Y-%m-%d")).is_("close", "null").execute()
+id_data = supabase.table("idx_daily_data").select("*").eq("date",today_date).is_("close", "null").execute()
 
-daily_data = supabase.table("idx_daily_data").select("symbol").eq("date",today_date.strftime("%Y-%m-%d")).execute()
+daily_data = supabase.table("idx_daily_data").select("symbol").eq("date",today_date).execute()
 daily_data = pd.DataFrame(daily_data.data).shape[0]
 
 active_stock = supabase.table("idx_active_company_profile").select("symbol").execute()
