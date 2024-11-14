@@ -5272,3 +5272,5 @@
 2024-11-14 03:32:36,878 - INFO: Update Market Cap Value for KPAS.JK on 2024-11-13
 2024-11-14 03:32:37,711 - INFO: Update Market Cap Value for MTRA.JK on 2024-11-13
 2024-11-14 03:32:38,547 - INFO: Update Market Cap Value for KAYU.JK on 2024-11-13
+2024-11-14 04:10:24,474 - INFO: Program started
+2024-11-14 04:10:27,931 - ERROR: 643 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
