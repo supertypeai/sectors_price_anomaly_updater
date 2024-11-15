@@ -5274,3 +5274,5 @@
 2024-11-14 03:32:38,547 - INFO: Update Market Cap Value for KAYU.JK on 2024-11-13
 2024-11-14 04:10:24,474 - INFO: Program started
 2024-11-14 04:10:27,931 - ERROR: 643 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
+2024-11-15 04:10:51,570 - INFO: Program started
+2024-11-15 04:10:54,885 - INFO: 940 tickers are scraped and already same with the number of active stock
