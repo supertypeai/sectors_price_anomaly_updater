@@ -58,22 +58,21 @@ def send_email(daily_data, active_stock,today_date):
     except Exception as e:
         print(f"Error sending email: {e}")
 
-send_email(1000,50,"2024-10-10") #test
-# initiate_logging(LOG_FILENAME)
+initiate_logging(LOG_FILENAME)
 
-# response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
-# today_date = pd.DataFrame(response.data).date.unique()[0]
+response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
+today_date = pd.DataFrame(response.data).date.unique()[0]
 
-# id_data = supabase.table("idx_daily_data").select("*").eq("date",today_date).is_("close", "null").execute()
+id_data = supabase.table("idx_daily_data").select("*").eq("date",today_date).is_("close", "null").execute()
 
-# daily_data = supabase.table("idx_daily_data").select("symbol").eq("date",today_date).execute()
-# daily_data = pd.DataFrame(daily_data.data).shape[0]
+daily_data = supabase.table("idx_daily_data").select("symbol").eq("date",today_date).execute()
+daily_data = pd.DataFrame(daily_data.data).shape[0]
 
-# active_stock = supabase.table("idx_active_company_profile").select("symbol").execute()
-# active_stock = pd.DataFrame(active_stock.data).shape[0]
+active_stock = supabase.table("idx_active_company_profile").select("symbol").execute()
+active_stock = pd.DataFrame(active_stock.data).shape[0]
 
-# if daily_data == active_stock:
-#     logging.info(f"{daily_data} tickers are scraped and already same with the number of active stock")
-# else:
-#     logging.error(f"{daily_data} tickers are scraped, not same with number of active stock, please checked the pipeline and revised it")
-#     send_email(daily_data,active_stock,today_date)
+if daily_data == active_stock:
+    logging.info(f"{daily_data} tickers are scraped and already same with the number of active stock")
+else:
+    logging.error(f"{daily_data} tickers are scraped, not same with number of active stock, please checked the pipeline and revised it")
+    send_email(daily_data,active_stock,today_date)
