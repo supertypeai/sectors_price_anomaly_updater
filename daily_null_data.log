@@ -5422,3 +5422,18 @@
 2024-11-18 03:14:38,172 - INFO: Update Market Cap Value for ENVY.JK on 2024-11-15
 2024-11-18 03:14:38,544 - INFO: Update Market Cap Value for SIMA.JK on 2024-11-15
 2024-11-18 03:14:39,390 - INFO: Update Market Cap Value for RIMO.JK on 2024-11-15
+2024-11-18 03:29:46,102 - INFO: Program add incomplete stock started
+2024-11-18 03:29:48,634 - ERROR: NAIK.JK: No price data found, symbol may be delisted (1d 2024-11-15 -> 2024-11-16)
+2024-11-18 03:30:09,794 - INFO: Finish add 32 missing stocks data for 2024-11-15 in idx_daily_data_table
+2024-11-18 03:30:10,683 - INFO: Program Filling Null Market Cap Started
+2024-11-18 03:30:12,547 - INFO: Update Market Cap Value for TECH.JK on 2024-11-15
+2024-11-18 03:30:12,871 - INFO: Update Market Cap Value for NUSA.JK on 2024-11-15
+2024-11-18 03:30:13,575 - INFO: Update Market Cap Value for SMRU.JK on 2024-11-15
+2024-11-18 03:30:14,301 - INFO: Update Market Cap Value for MYRX.JK on 2024-11-15
+2024-11-18 03:30:15,022 - INFO: Update Market Cap Value for WSKT.JK on 2024-11-15
+2024-11-18 03:30:15,737 - INFO: Update Market Cap Value for SRIL.JK on 2024-11-15
+2024-11-18 03:30:16,440 - INFO: Update Market Cap Value for HDTX.JK on 2024-11-15
+2024-11-18 03:30:16,751 - INFO: Update Market Cap Value for HOTL.JK on 2024-11-15
+2024-11-18 03:30:17,474 - INFO: Update Market Cap Value for ARMY.JK on 2024-11-15
+2024-11-18 03:30:18,180 - INFO: Update Market Cap Value for LCGP.JK on 2024-11-15
+2024-11-18 03:30:18,929 - INFO: Update Market Cap Value for TRIL.JK on 2024-11-15
