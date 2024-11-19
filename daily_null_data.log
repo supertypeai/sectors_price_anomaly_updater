@@ -5577,3 +5577,23 @@
 2024-11-19 01:58:49,473 - INFO: Update Market Cap Value for WMPP.JK on 2024-11-18
 2024-11-19 01:58:49,834 - INFO: Update Market Cap Value for KBRI.JK on 2024-11-18
 2024-11-19 01:58:50,709 - INFO: Update Market Cap Value for OMRE.JK on 2024-11-18
+2024-11-19 02:02:15,861 - INFO: Program add incomplete stock started
+2024-11-19 02:02:45,506 - INFO: Finish add 31 missing stocks data for 2024-11-18 in idx_daily_data_table
+2024-11-19 02:02:46,314 - INFO: Program Filling Null Market Cap Started
+2024-11-19 02:02:49,089 - INFO: Update Market Cap Value for KPAL.JK on 2024-11-18
+2024-11-19 02:02:49,946 - INFO: Update Market Cap Value for META.JK on 2024-11-18
+2024-11-19 02:02:50,798 - INFO: Update Market Cap Value for TDPM.JK on 2024-11-18
+2024-11-19 02:02:51,618 - INFO: Update Market Cap Value for ENVY.JK on 2024-11-18
+2024-11-19 02:02:52,484 - INFO: Update Market Cap Value for SIMA.JK on 2024-11-18
+2024-11-19 02:02:53,303 - INFO: Update Market Cap Value for RIMO.JK on 2024-11-18
+2024-11-19 02:02:54,143 - INFO: Update Market Cap Value for TECH.JK on 2024-11-18
+2024-11-19 02:02:54,517 - INFO: Update Market Cap Value for NUSA.JK on 2024-11-18
+2024-11-19 02:02:55,381 - INFO: Update Market Cap Value for SMRU.JK on 2024-11-18
+2024-11-19 02:02:56,253 - INFO: Update Market Cap Value for MYRX.JK on 2024-11-18
+2024-11-19 02:02:57,122 - INFO: Update Market Cap Value for WSKT.JK on 2024-11-18
+2024-11-19 02:02:57,989 - INFO: Update Market Cap Value for SRIL.JK on 2024-11-18
+2024-11-19 02:02:58,826 - INFO: Update Market Cap Value for HDTX.JK on 2024-11-18
+2024-11-19 02:02:59,695 - INFO: Update Market Cap Value for HOTL.JK on 2024-11-18
+2024-11-19 02:03:00,057 - INFO: Update Market Cap Value for ARMY.JK on 2024-11-18
+2024-11-19 02:03:00,919 - INFO: Update Market Cap Value for LCGP.JK on 2024-11-18
+2024-11-19 02:03:01,281 - INFO: Update Market Cap Value for TRIL.JK on 2024-11-18
