@@ -6286,3 +6286,17 @@
 2024-11-26 03:13:26,850 - INFO: Update Market Cap Value for TRAM.JK on 2024-11-25
 2024-11-26 03:13:27,212 - INFO: Update Market Cap Value for META.JK on 2024-11-25
 2024-11-26 03:13:27,570 - INFO: Update Market Cap Value for ENVY.JK on 2024-11-25
+2024-11-26 03:24:41,213 - INFO: Program add incomplete stock started
+2024-11-26 03:26:47,061 - INFO: Finish add 135 missing stocks data for 2024-11-25 in idx_daily_data_table
+2024-11-26 03:26:47,893 - INFO: Program Filling Null Market Cap Started
+2024-11-26 03:26:50,167 - INFO: Update Market Cap Value for TECH.JK on 2024-11-25
+2024-11-26 03:26:50,860 - INFO: Update Market Cap Value for NUSA.JK on 2024-11-25
+2024-11-26 03:26:51,571 - INFO: Update Market Cap Value for SMRU.JK on 2024-11-25
+2024-11-26 03:26:52,247 - INFO: Update Market Cap Value for MYRX.JK on 2024-11-25
+2024-11-26 03:26:52,918 - INFO: Update Market Cap Value for SRIL.JK on 2024-11-25
+2024-11-26 03:26:53,365 - INFO: Update Market Cap Value for LCGP.JK on 2024-11-25
+2024-11-26 03:26:53,680 - INFO: Update Market Cap Value for WSKT.JK on 2024-11-25
+2024-11-26 03:26:54,385 - INFO: Update Market Cap Value for HDTX.JK on 2024-11-25
+2024-11-26 03:26:54,703 - INFO: Update Market Cap Value for HOTL.JK on 2024-11-25
+2024-11-26 03:26:55,008 - INFO: Update Market Cap Value for ARMY.JK on 2024-11-25
+2024-11-26 03:26:55,318 - INFO: Update Market Cap Value for TRIL.JK on 2024-11-25
