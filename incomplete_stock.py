@@ -13,7 +13,12 @@ load_dotenv()
 
 url = os.environ.get("SUPABASE_URL")
 key = os.environ.get("SUPABASE_KEY")
-supabase = create_client(url, key)
+timeout_options = ClientOptions(
+    postgrest_client_timeout=10,
+    storage_client_timeout=10,
+    schema="public",
+  )
+supabase = create_client(url, key, options=timeout_options)
 LOG_FILENAME = 'daily_null_data.log'
 
 def initiate_logging(LOG_FILENAME):
@@ -73,8 +78,7 @@ if daily_data.shape[0] != active_stock.shape[0]:
     df_na.volume = df_na.volume.astype('int')
 
     df_na = df_na.replace({np.nan: None})
-
-    supabase = create_client(url, key)
+    
     for i in df_na.symbol.unique():
         supabase.table("idx_daily_data").insert(
                     {"symbol": convert_numpy_int64(df_na[df_na.symbol == i].iloc[0]["symbol"]),
