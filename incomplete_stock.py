@@ -74,6 +74,7 @@ if daily_data.shape[0] != active_stock.shape[0]:
 
     df_na = df_na.replace({np.nan: None})
 
+    supabase = create_client(url, key)
     for i in df_na.symbol.unique():
         supabase.table("idx_daily_data").insert(
                     {"symbol": convert_numpy_int64(df_na[df_na.symbol == i].iloc[0]["symbol"]),
