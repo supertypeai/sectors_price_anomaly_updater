@@ -6761,3 +6761,144 @@
 2024-11-27 04:11:05,512 - INFO: 941 tickers are scraped and already same with the number of active stock
 2024-11-28 04:11:04,167 - INFO: Program started
 2024-11-28 04:11:06,488 - INFO: 941 tickers are scraped and already same with the number of active stock
+2024-11-29 03:37:30,405 - INFO: Program add incomplete stock started
+2024-11-29 03:38:35,418 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RDTX.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RDTX.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:36,601 - ERROR: Failed to get ticker 'BIKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:36,602 - ERROR: BIKA.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:37,195 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/BIKA.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=BIKA.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:38,486 - ERROR: Failed to get ticker 'BSWD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:38,486 - ERROR: BSWD.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:39,095 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/BSWD.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=BSWD.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:40,375 - ERROR: Failed to get ticker 'OMRE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:40,375 - ERROR: OMRE.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:40,991 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/OMRE.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=OMRE.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:42,332 - ERROR: Failed to get ticker 'KPAL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:42,332 - ERROR: KPAL.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:42,958 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/KPAL.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=KPAL.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:44,085 - ERROR: Failed to get ticker 'GLOB.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:44,085 - ERROR: GLOB.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:44,966 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/GLOB.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=GLOB.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:46,259 - ERROR: Failed to get ticker 'META.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:46,259 - ERROR: META.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:46,808 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/META.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=META.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:48,205 - ERROR: Failed to get ticker 'TDPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:48,205 - ERROR: TDPM.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:49,214 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/TDPM.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=TDPM.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:50,583 - ERROR: Failed to get ticker 'KOIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:50,584 - ERROR: KOIN.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:51,256 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/KOIN.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=KOIN.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:52,455 - ERROR: Failed to get ticker 'ENVY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:52,455 - ERROR: ENVY.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:53,084 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ENVY.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ENVY.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:54,232 - ERROR: Failed to get ticker 'SIMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:54,232 - ERROR: SIMA.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:54,787 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/SIMA.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=SIMA.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:56,043 - ERROR: Failed to get ticker 'RIMO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:56,044 - ERROR: RIMO.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:56,806 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/RIMO.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=RIMO.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:38:58,167 - ERROR: Failed to get ticker 'TECH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:38:58,168 - ERROR: TECH.JK: No timezone found, symbol may be delisted
+2024-11-29 03:38:58,897 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/TECH.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=TECH.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:00,127 - ERROR: Failed to get ticker 'WICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:00,127 - ERROR: WICO.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:00,764 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/WICO.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=WICO.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:02,478 - ERROR: Failed to get ticker 'NUSA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:02,479 - ERROR: NUSA.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:03,063 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/NUSA.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=NUSA.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:04,269 - ERROR: Failed to get ticker 'SMRU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:04,269 - ERROR: SMRU.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:04,947 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/SMRU.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=SMRU.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:06,154 - ERROR: Failed to get ticker 'SMMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:06,154 - ERROR: SMMA.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:06,718 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/SMMA.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=SMMA.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:07,904 - ERROR: Failed to get ticker 'MYRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:07,904 - ERROR: MYRX.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:08,549 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/MYRX.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=MYRX.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:09,845 - ERROR: Failed to get ticker 'TFCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:09,845 - ERROR: TFCO.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:10,517 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/TFCO.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=TFCO.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:11,911 - ERROR: Failed to get ticker 'UANG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:11,912 - ERROR: UANG.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:12,614 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/UANG.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=UANG.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:14,079 - ERROR: Failed to get ticker 'WSKT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:14,079 - ERROR: WSKT.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:14,661 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/WSKT.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=WSKT.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:15,897 - ERROR: Failed to get ticker 'SUPR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:15,898 - ERROR: SUPR.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:16,491 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/SUPR.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=SUPR.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:17,960 - ERROR: Failed to get ticker 'SRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:17,961 - ERROR: SRIL.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:18,560 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/SRIL.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=SRIL.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:19,928 - ERROR: Failed to get ticker 'HDTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:19,929 - ERROR: HDTX.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:20,498 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/HDTX.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=HDTX.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:21,645 - ERROR: Failed to get ticker 'MYTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:21,645 - ERROR: MYTX.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:22,286 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/MYTX.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=MYTX.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:23,547 - ERROR: Failed to get ticker 'PBRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:23,547 - ERROR: PBRX.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:24,110 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/PBRX.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=PBRX.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:25,418 - ERROR: Failed to get ticker 'ALMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:25,419 - ERROR: ALMI.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:26,045 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ALMI.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ALMI.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:27,407 - ERROR: Failed to get ticker 'HOMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:27,407 - ERROR: HOMI.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:27,995 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/HOMI.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=HOMI.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:29,402 - ERROR: Failed to get ticker 'HOTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:29,402 - ERROR: HOTL.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:30,212 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/HOTL.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=HOTL.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:31,517 - ERROR: Failed to get ticker 'ARMY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:31,517 - ERROR: ARMY.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:32,212 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/ARMY.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=ARMY.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:33,449 - ERROR: Failed to get ticker 'LCGP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:33,450 - ERROR: LCGP.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:34,120 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/LCGP.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=LCGP.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:35,393 - ERROR: Failed to get ticker 'TRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:35,393 - ERROR: TRIL.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:36,009 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/TRIL.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=TRIL.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:39:37,241 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-11-29 03:39:37,242 - ERROR: TOYS.JK: No timezone found, symbol may be delisted
+2024-11-29 03:39:37,865 - ERROR: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/TOYS.JK?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=TOYS.JK&crumb=Edge%3A+Too+Many+Requests
+2024-11-29 03:42:07,355 - INFO: Finish add 340 missing stocks data for 2024-11-28 in idx_daily_data_table
+2024-11-29 03:42:08,212 - INFO: Program Filling Null Market Cap Started
+2024-11-29 03:42:11,622 - INFO: Update Market Cap Value for KRAH.JK on 2024-11-28
+2024-11-29 03:42:12,535 - INFO: Update Market Cap Value for ETWA.JK on 2024-11-28
+2024-11-29 03:42:12,928 - INFO: Update Market Cap Value for MAMI.JK on 2024-11-28
+2024-11-29 03:42:13,305 - INFO: Update Market Cap Value for LMAS.JK on 2024-11-28
+2024-11-29 03:42:13,678 - INFO: Update Market Cap Value for KBRI.JK on 2024-11-28
+2024-11-29 03:42:14,550 - INFO: Update Market Cap Value for BOSS.JK on 2024-11-28
+2024-11-29 03:42:15,384 - INFO: Update Market Cap Value for JKSW.JK on 2024-11-28
+2024-11-29 03:42:16,294 - INFO: Update Market Cap Value for UNIT.JK on 2024-11-28
+2024-11-29 03:42:16,668 - INFO: Update Market Cap Value for POOL.JK on 2024-11-28
+2024-11-29 03:42:17,055 - INFO: Update Market Cap Value for GAMA.JK on 2024-11-28
+2024-11-29 03:42:17,932 - INFO: Update Market Cap Value for MAGP.JK on 2024-11-28
+2024-11-29 03:42:18,825 - INFO: Update Market Cap Value for COWL.JK on 2024-11-28
+2024-11-29 03:42:19,701 - INFO: Update Market Cap Value for SKYB.JK on 2024-11-28
+2024-11-29 03:42:20,598 - INFO: Update Market Cap Value for POSA.JK on 2024-11-28
+2024-11-29 03:42:21,528 - INFO: Update Market Cap Value for BTEL.JK on 2024-11-28
+2024-11-29 03:42:22,394 - INFO: Update Market Cap Value for CBMF.JK on 2024-11-28
+2024-11-29 03:42:23,319 - INFO: Update Market Cap Value for KPAS.JK on 2024-11-28
+2024-11-29 03:42:23,713 - INFO: Update Market Cap Value for HOME.JK on 2024-11-28
+2024-11-29 03:42:24,636 - INFO: Update Market Cap Value for DUCK.JK on 2024-11-28
+2024-11-29 03:42:25,008 - INFO: Update Market Cap Value for PLAS.JK on 2024-11-28
+2024-11-29 03:42:25,840 - INFO: Update Market Cap Value for KAYU.JK on 2024-11-28
+2024-11-29 03:42:26,223 - INFO: Update Market Cap Value for DEFI.JK on 2024-11-28
+2024-11-29 03:42:26,599 - INFO: Update Market Cap Value for TRIO.JK on 2024-11-28
+2024-11-29 03:42:26,963 - INFO: Update Market Cap Value for PURE.JK on 2024-11-28
+2024-11-29 03:42:27,360 - INFO: Update Market Cap Value for GOLL.JK on 2024-11-28
+2024-11-29 03:42:28,186 - INFO: Update Market Cap Value for TRAM.JK on 2024-11-28
+2024-11-29 03:42:28,568 - INFO: Update Market Cap Value for RDTX.JK on 2024-11-28
+2024-11-29 03:42:28,937 - INFO: Update Market Cap Value for OCAP.JK on 2024-11-28
+2024-11-29 03:42:29,314 - INFO: Update Market Cap Value for NIPS.JK on 2024-11-28
+2024-11-29 03:42:29,664 - INFO: Update Market Cap Value for IIKP.JK on 2024-11-28
+2024-11-29 03:42:30,526 - INFO: Update Market Cap Value for SUGI.JK on 2024-11-28
+2024-11-29 03:42:30,912 - INFO: Update Market Cap Value for FORZ.JK on 2024-11-28
+2024-11-29 03:42:31,274 - INFO: Update Market Cap Value for JSKY.JK on 2024-11-28
+2024-11-29 03:42:31,639 - INFO: Update Market Cap Value for MABA.JK on 2024-11-28
+2024-11-29 03:42:32,561 - INFO: Update Market Cap Value for MTRA.JK on 2024-11-28
+2024-11-29 03:42:33,420 - INFO: Update Market Cap Value for PRAS.JK on 2024-11-28
+2024-11-29 03:42:33,777 - INFO: Update Market Cap Value for DEAL.JK on 2024-11-28
+2024-11-29 03:42:34,130 - INFO: Update Market Cap Value for HKMU.JK on 2024-11-28
+2024-11-29 03:42:34,516 - INFO: Update Market Cap Value for SCPI.JK on 2024-11-28
+2024-11-29 03:42:34,866 - INFO: Update Market Cap Value for CPRI.JK on 2024-11-28
+2024-11-29 03:42:35,245 - INFO: Update Market Cap Value for WMPP.JK on 2024-11-28
