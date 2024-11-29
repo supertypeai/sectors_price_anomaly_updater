@@ -79,6 +79,8 @@ if daily_data.shape[0] != active_stock.shape[0]:
     df_na.volume = df_na.volume.astype('int')
 
     df_na = df_na.replace({np.nan: None})
+
+    supabase = create_client(url, key, options=timeout_options)
     
     for i in df_na.symbol.unique():
         supabase.table("idx_daily_data").insert(
