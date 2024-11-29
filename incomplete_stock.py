@@ -15,8 +15,8 @@ load_dotenv()
 url = os.environ.get("SUPABASE_URL")
 key = os.environ.get("SUPABASE_KEY")
 timeout_options = ClientOptions(
-    postgrest_client_timeout=10,
-    storage_client_timeout=10,
+    postgrest_client_timeout=100,
+    storage_client_timeout=100,
     schema="public",
   )
 supabase = create_client(url, key, options=timeout_options)
