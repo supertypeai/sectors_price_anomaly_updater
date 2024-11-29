@@ -1,6 +1,7 @@
 import logging
 from imp import reload
 from supabase import create_client
+from supabase.client import ClientOptions
 import pandas as pd
 from dotenv import load_dotenv
 import os
