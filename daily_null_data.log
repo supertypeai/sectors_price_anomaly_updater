@@ -7400,3 +7400,32 @@
 2024-11-30 04:29:46,538 - INFO: Update Market Cap Value for DEAL.JK on 2024-11-29
 2024-11-30 04:29:46,883 - INFO: Update Market Cap Value for DEFI.JK on 2024-11-29
 2024-11-30 04:29:47,231 - INFO: Update Market Cap Value for CITA.JK on 2024-11-29
+2024-11-30 06:03:18,709 - INFO: Program add incomplete stock started
+2024-11-30 06:04:48,350 - INFO: Finish add 147 missing stocks data for 2024-11-29 in idx_daily_data_table
+2024-11-30 06:04:49,174 - INFO: Program Filling Null Market Cap Started
+2024-11-30 06:04:52,612 - INFO: Update Market Cap Value for HKMU.JK on 2024-11-29
+2024-11-30 06:04:53,551 - INFO: Update Market Cap Value for HOME.JK on 2024-11-29
+2024-11-30 06:04:54,497 - INFO: Update Market Cap Value for TRIO.JK on 2024-11-29
+2024-11-30 06:04:54,896 - INFO: Update Market Cap Value for PURE.JK on 2024-11-29
+2024-11-30 06:04:55,818 - INFO: Update Market Cap Value for SCPI.JK on 2024-11-29
+2024-11-30 06:04:56,710 - INFO: Update Market Cap Value for CPRI.JK on 2024-11-29
+2024-11-30 06:04:57,628 - INFO: Update Market Cap Value for GOLL.JK on 2024-11-29
+2024-11-30 06:04:57,998 - INFO: Update Market Cap Value for TRAM.JK on 2024-11-29
+2024-11-30 06:04:58,382 - INFO: Update Market Cap Value for WMPP.JK on 2024-11-29
+2024-11-30 06:04:58,773 - INFO: Update Market Cap Value for KPAL.JK on 2024-11-29
+2024-11-30 06:04:59,154 - INFO: Update Market Cap Value for META.JK on 2024-11-29
+2024-11-30 06:05:00,093 - INFO: Update Market Cap Value for MYRX.JK on 2024-11-29
+2024-11-30 06:05:00,968 - INFO: Update Market Cap Value for ARMY.JK on 2024-11-29
+2024-11-30 06:05:01,357 - INFO: Update Market Cap Value for RIMO.JK on 2024-11-29
+2024-11-30 06:05:01,745 - INFO: Update Market Cap Value for TECH.JK on 2024-11-29
+2024-11-30 06:05:02,639 - INFO: Update Market Cap Value for WSKT.JK on 2024-11-29
+2024-11-30 06:05:03,027 - INFO: Update Market Cap Value for HOTL.JK on 2024-11-29
+2024-11-30 06:05:03,942 - INFO: Update Market Cap Value for TDPM.JK on 2024-11-29
+2024-11-30 06:05:04,314 - INFO: Update Market Cap Value for SIMA.JK on 2024-11-29
+2024-11-30 06:05:05,238 - INFO: Update Market Cap Value for NUSA.JK on 2024-11-29
+2024-11-30 06:05:05,626 - INFO: Update Market Cap Value for SRIL.JK on 2024-11-29
+2024-11-30 06:05:06,009 - INFO: Update Market Cap Value for LCGP.JK on 2024-11-29
+2024-11-30 06:05:06,845 - INFO: Update Market Cap Value for ENVY.JK on 2024-11-29
+2024-11-30 06:05:07,723 - INFO: Update Market Cap Value for SMRU.JK on 2024-11-29
+2024-11-30 06:05:08,136 - INFO: Update Market Cap Value for HDTX.JK on 2024-11-29
+2024-11-30 06:05:08,545 - INFO: Update Market Cap Value for TRIL.JK on 2024-11-29
