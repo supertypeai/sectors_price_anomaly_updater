@@ -8461,3 +8461,5 @@
 2024-12-05 04:10:06,346 - INFO: Update Market Cap Value for KPAL.JK on 2024-12-04
 2024-12-05 04:10:06,690 - INFO: Update Market Cap Value for TDPM.JK on 2024-12-04
 2024-12-05 04:10:07,054 - INFO: Update Market Cap Value for ENVY.JK on 2024-12-04
+2024-12-05 04:11:13,810 - INFO: Program started
+2024-12-05 04:11:16,538 - ERROR: 799 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
