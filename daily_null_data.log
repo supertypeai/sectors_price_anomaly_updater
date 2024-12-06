@@ -8917,3 +8917,29 @@
 2024-12-06 03:40:13,135 - INFO: Update Market Cap Value for DEFI.JK on 2024-12-05
 2024-12-06 03:40:13,494 - INFO: Update Market Cap Value for HKMU.JK on 2024-12-05
 2024-12-06 03:40:13,856 - INFO: Update Market Cap Value for TRIO.JK on 2024-12-05
+2024-12-06 03:42:03,166 - INFO: Program add incomplete stock started
+2024-12-06 03:43:37,208 - INFO: Finish add 139 missing stocks data for 2024-12-05 in idx_daily_data_table
+2024-12-06 03:43:38,023 - INFO: Program Filling Null Market Cap Started
+2024-12-06 03:43:41,511 - INFO: Update Market Cap Value for META.JK on 2024-12-05
+2024-12-06 03:43:42,431 - INFO: Update Market Cap Value for ENVY.JK on 2024-12-05
+2024-12-06 03:43:43,361 - INFO: Update Market Cap Value for TECH.JK on 2024-12-05
+2024-12-06 03:43:44,247 - INFO: Update Market Cap Value for HDTX.JK on 2024-12-05
+2024-12-06 03:43:45,135 - INFO: Update Market Cap Value for TRIL.JK on 2024-12-05
+2024-12-06 03:43:45,533 - INFO: Update Market Cap Value for GOLL.JK on 2024-12-05
+2024-12-06 03:43:46,422 - INFO: Update Market Cap Value for KPAL.JK on 2024-12-05
+2024-12-06 03:43:47,331 - INFO: Update Market Cap Value for SMRU.JK on 2024-12-05
+2024-12-06 03:43:48,270 - INFO: Update Market Cap Value for PURE.JK on 2024-12-05
+2024-12-06 03:43:48,660 - INFO: Update Market Cap Value for TDPM.JK on 2024-12-05
+2024-12-06 03:43:49,041 - INFO: Update Market Cap Value for SIMA.JK on 2024-12-05
+2024-12-06 03:43:49,432 - INFO: Update Market Cap Value for MYRX.JK on 2024-12-05
+2024-12-06 03:43:49,811 - INFO: Update Market Cap Value for SRIL.JK on 2024-12-05
+2024-12-06 03:43:50,198 - INFO: Update Market Cap Value for ARMY.JK on 2024-12-05
+2024-12-06 03:43:50,579 - INFO: Update Market Cap Value for CPRI.JK on 2024-12-05
+2024-12-06 03:43:50,974 - INFO: Update Market Cap Value for TRAM.JK on 2024-12-05
+2024-12-06 03:43:51,852 - INFO: Update Market Cap Value for RIMO.JK on 2024-12-05
+2024-12-06 03:43:52,751 - INFO: Update Market Cap Value for NUSA.JK on 2024-12-05
+2024-12-06 03:43:53,114 - INFO: Update Market Cap Value for WSKT.JK on 2024-12-05
+2024-12-06 03:43:53,985 - INFO: Update Market Cap Value for SCPI.JK on 2024-12-05
+2024-12-06 03:43:54,359 - INFO: Update Market Cap Value for WMPP.JK on 2024-12-05
+2024-12-06 03:43:55,225 - INFO: Update Market Cap Value for HOTL.JK on 2024-12-05
+2024-12-06 03:43:55,601 - INFO: Update Market Cap Value for LCGP.JK on 2024-12-05
