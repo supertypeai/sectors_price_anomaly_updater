@@ -9072,3 +9072,16 @@
 2024-12-07 02:30:18,910 - INFO: Update Market Cap Value for SIMA.JK on 2024-12-06
 2024-12-07 02:30:19,296 - INFO: Update Market Cap Value for RIMO.JK on 2024-12-06
 2024-12-07 02:30:19,682 - INFO: Update Market Cap Value for TECH.JK on 2024-12-06
+2024-12-07 02:31:40,171 - INFO: Program add incomplete stock started
+2024-12-07 02:32:01,036 - INFO: Finish add 26 missing stocks data for 2024-12-06 in idx_daily_data_table
+2024-12-07 02:32:01,872 - INFO: Program Filling Null Market Cap Started
+2024-12-07 02:32:03,610 - INFO: Update Market Cap Value for WSKT.JK on 2024-12-06
+2024-12-07 02:32:04,268 - INFO: Update Market Cap Value for SRIL.JK on 2024-12-06
+2024-12-07 02:32:04,582 - INFO: Update Market Cap Value for HOTL.JK on 2024-12-06
+2024-12-07 02:32:05,240 - INFO: Update Market Cap Value for ARMY.JK on 2024-12-06
+2024-12-07 02:32:05,895 - INFO: Update Market Cap Value for LCGP.JK on 2024-12-06
+2024-12-07 02:32:06,581 - INFO: Update Market Cap Value for TRIL.JK on 2024-12-06
+2024-12-07 02:32:06,880 - INFO: Update Market Cap Value for HDTX.JK on 2024-12-06
+2024-12-07 02:32:07,175 - INFO: Update Market Cap Value for NUSA.JK on 2024-12-06
+2024-12-07 02:32:07,473 - INFO: Update Market Cap Value for SMRU.JK on 2024-12-06
+2024-12-07 02:32:08,139 - INFO: Update Market Cap Value for MYRX.JK on 2024-12-06
