@@ -10790,3 +10790,5 @@
 2024-12-12 04:07:35,438 - INFO: Update Market Cap Value for TECH.JK on 2024-12-11
 2024-12-12 04:07:35,809 - INFO: Update Market Cap Value for SIMA.JK on 2024-12-11
 2024-12-12 04:07:36,171 - INFO: Update Market Cap Value for SMRU.JK on 2024-12-11
+2024-12-12 04:11:01,133 - INFO: Program started
+2024-12-12 04:11:03,859 - ERROR: 848 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
