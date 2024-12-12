@@ -10792,3 +10792,13 @@
 2024-12-12 04:07:36,171 - INFO: Update Market Cap Value for SMRU.JK on 2024-12-11
 2024-12-12 04:11:01,133 - INFO: Program started
 2024-12-12 04:11:03,859 - ERROR: 848 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
+2024-12-12 04:12:09,669 - INFO: Program add incomplete stock started
+2024-12-12 04:13:21,226 - INFO: Finish add 93 missing stocks data for 2024-12-11 in idx_daily_data_table
+2024-12-12 04:13:22,011 - INFO: Program Filling Null Market Cap Started
+2024-12-12 04:13:23,347 - INFO: Update Market Cap Value for WSKT.JK on 2024-12-11
+2024-12-12 04:13:23,735 - INFO: Update Market Cap Value for SRIL.JK on 2024-12-11
+2024-12-12 04:13:24,121 - INFO: Update Market Cap Value for HDTX.JK on 2024-12-11
+2024-12-12 04:13:24,507 - INFO: Update Market Cap Value for HOTL.JK on 2024-12-11
+2024-12-12 04:13:24,903 - INFO: Update Market Cap Value for ARMY.JK on 2024-12-11
+2024-12-12 04:13:25,278 - INFO: Update Market Cap Value for LCGP.JK on 2024-12-11
+2024-12-12 04:13:25,655 - INFO: Update Market Cap Value for TRIL.JK on 2024-12-11
