@@ -10918,3 +10918,10 @@
 2024-12-13 03:14:19,263 - INFO: Update Market Cap Value for KPAL.JK on 2024-12-12
 2024-12-13 03:14:19,578 - INFO: Update Market Cap Value for META.JK on 2024-12-12
 2024-12-13 03:14:19,895 - INFO: Update Market Cap Value for RIMO.JK on 2024-12-12
+2024-12-13 03:35:29,959 - INFO: Program add incomplete stock started
+2024-12-13 03:35:49,014 - INFO: Finish add 20 missing stocks data for 2024-12-12 in idx_daily_data_table
+2024-12-13 03:35:49,842 - INFO: Program Filling Null Market Cap Started
+2024-12-13 03:35:51,266 - INFO: Update Market Cap Value for HOTL.JK on 2024-12-12
+2024-12-13 03:35:51,571 - INFO: Update Market Cap Value for ARMY.JK on 2024-12-12
+2024-12-13 03:35:52,281 - INFO: Update Market Cap Value for LCGP.JK on 2024-12-12
+2024-12-13 03:35:52,600 - INFO: Update Market Cap Value for TRIL.JK on 2024-12-12
