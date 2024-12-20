@@ -12810,3 +12810,17 @@
 2024-12-20 03:25:06,241 - INFO: Update Market Cap Value for IDPR.JK on 2024-12-19
 2024-12-20 03:25:07,101 - INFO: Update Market Cap Value for TDPM.JK on 2024-12-19
 2024-12-20 03:25:07,465 - INFO: Update Market Cap Value for ENVY.JK on 2024-12-19
+2024-12-20 03:33:05,845 - INFO: Program add incomplete stock started
+2024-12-20 03:33:35,650 - INFO: Finish add 32 missing stocks data for 2024-12-19 in idx_daily_data_table
+2024-12-20 03:33:36,483 - INFO: Program Filling Null Market Cap Started
+2024-12-20 03:33:37,842 - INFO: Update Market Cap Value for TECH.JK on 2024-12-19
+2024-12-20 03:33:38,227 - INFO: Update Market Cap Value for NUSA.JK on 2024-12-19
+2024-12-20 03:33:39,124 - INFO: Update Market Cap Value for SMRU.JK on 2024-12-19
+2024-12-20 03:33:39,496 - INFO: Update Market Cap Value for MYRX.JK on 2024-12-19
+2024-12-20 03:33:39,874 - INFO: Update Market Cap Value for WSKT.JK on 2024-12-19
+2024-12-20 03:33:40,254 - INFO: Update Market Cap Value for SRIL.JK on 2024-12-19
+2024-12-20 03:33:40,642 - INFO: Update Market Cap Value for HDTX.JK on 2024-12-19
+2024-12-20 03:33:41,031 - INFO: Update Market Cap Value for HOTL.JK on 2024-12-19
+2024-12-20 03:33:41,408 - INFO: Update Market Cap Value for ARMY.JK on 2024-12-19
+2024-12-20 03:33:41,809 - INFO: Update Market Cap Value for LCGP.JK on 2024-12-19
+2024-12-20 03:33:42,192 - INFO: Update Market Cap Value for TRIL.JK on 2024-12-19
