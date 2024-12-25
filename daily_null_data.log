@@ -13451,3 +13451,25 @@
 2024-12-25 03:36:05,748 - INFO: Update Market Cap Value for GOLL.JK on 2024-12-24
 2024-12-25 04:10:13,728 - INFO: Program started
 2024-12-25 04:10:15,855 - ERROR: 790 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
+2024-12-25 04:17:27,795 - INFO: Program add incomplete stock started
+2024-12-25 04:19:26,849 - INFO: Finish add 153 missing stocks data for 2024-12-24 in idx_daily_data_table
+2024-12-25 04:19:27,636 - INFO: Program Filling Null Market Cap Started
+2024-12-25 04:19:28,967 - INFO: Update Market Cap Value for TRAM.JK on 2024-12-24
+2024-12-25 04:19:29,345 - INFO: Update Market Cap Value for WMPP.JK on 2024-12-24
+2024-12-25 04:19:29,719 - INFO: Update Market Cap Value for KPAL.JK on 2024-12-24
+2024-12-25 04:19:30,093 - INFO: Update Market Cap Value for META.JK on 2024-12-24
+2024-12-25 04:19:30,477 - INFO: Update Market Cap Value for TDPM.JK on 2024-12-24
+2024-12-25 04:19:30,886 - INFO: Update Market Cap Value for SIMA.JK on 2024-12-24
+2024-12-25 04:19:31,252 - INFO: Update Market Cap Value for RIMO.JK on 2024-12-24
+2024-12-25 04:19:31,638 - INFO: Update Market Cap Value for TECH.JK on 2024-12-24
+2024-12-25 04:19:32,015 - INFO: Update Market Cap Value for NUSA.JK on 2024-12-24
+2024-12-25 04:19:32,392 - INFO: Update Market Cap Value for SMRU.JK on 2024-12-24
+2024-12-25 04:19:32,767 - INFO: Update Market Cap Value for WSKT.JK on 2024-12-24
+2024-12-25 04:19:33,143 - INFO: Update Market Cap Value for HDTX.JK on 2024-12-24
+2024-12-25 04:19:33,511 - INFO: Update Market Cap Value for HOTL.JK on 2024-12-24
+2024-12-25 04:19:33,903 - INFO: Update Market Cap Value for LCGP.JK on 2024-12-24
+2024-12-25 04:19:34,282 - INFO: Update Market Cap Value for ENVY.JK on 2024-12-24
+2024-12-25 04:19:34,657 - INFO: Update Market Cap Value for MYRX.JK on 2024-12-24
+2024-12-25 04:19:35,046 - INFO: Update Market Cap Value for SRIL.JK on 2024-12-24
+2024-12-25 04:19:35,415 - INFO: Update Market Cap Value for ARMY.JK on 2024-12-24
+2024-12-25 04:19:35,784 - INFO: Update Market Cap Value for TRIL.JK on 2024-12-24
