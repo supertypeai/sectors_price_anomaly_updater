@@ -13449,3 +13449,5 @@
 2024-12-25 03:36:05,040 - INFO: Update Market Cap Value for TRIO.JK on 2024-12-24
 2024-12-25 03:36:05,390 - INFO: Update Market Cap Value for CPRI.JK on 2024-12-24
 2024-12-25 03:36:05,748 - INFO: Update Market Cap Value for GOLL.JK on 2024-12-24
+2024-12-25 04:10:13,728 - INFO: Program started
+2024-12-25 04:10:15,855 - ERROR: 790 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
