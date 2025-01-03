@@ -14609,3 +14609,34 @@
 2025-01-03 03:43:55,202 - INFO: Update Market Cap Value for MTRA.JK on 2025-01-02
 2025-01-03 03:43:55,561 - INFO: Update Market Cap Value for KAYU.JK on 2025-01-02
 2025-01-03 03:43:56,445 - INFO: Update Market Cap Value for PRAS.JK on 2025-01-02
+2025-01-03 03:50:33,103 - INFO: Program add incomplete stock started
+2025-01-03 03:52:24,362 - INFO: Finish add 159 missing stocks data for 2025-01-02 in idx_daily_data_table
+2025-01-03 03:52:25,156 - INFO: Program Filling Null Market Cap Started
+2025-01-03 03:52:28,286 - INFO: Update Market Cap Value for DEAL.JK on 2025-01-02
+2025-01-03 03:52:28,657 - INFO: Update Market Cap Value for DEFI.JK on 2025-01-02
+2025-01-03 03:52:29,564 - INFO: Update Market Cap Value for HKMU.JK on 2025-01-02
+2025-01-03 03:52:30,381 - INFO: Update Market Cap Value for HOME.JK on 2025-01-02
+2025-01-03 03:52:30,735 - INFO: Update Market Cap Value for TRIO.JK on 2025-01-02
+2025-01-03 03:52:31,546 - INFO: Update Market Cap Value for PURE.JK on 2025-01-02
+2025-01-03 03:52:32,356 - INFO: Update Market Cap Value for SCPI.JK on 2025-01-02
+2025-01-03 03:52:33,170 - INFO: Update Market Cap Value for CPRI.JK on 2025-01-02
+2025-01-03 03:52:33,514 - INFO: Update Market Cap Value for GOLL.JK on 2025-01-02
+2025-01-03 03:52:34,336 - INFO: Update Market Cap Value for TRAM.JK on 2025-01-02
+2025-01-03 03:52:34,686 - INFO: Update Market Cap Value for WMPP.JK on 2025-01-02
+2025-01-03 03:52:35,496 - INFO: Update Market Cap Value for KPAL.JK on 2025-01-02
+2025-01-03 03:52:36,307 - INFO: Update Market Cap Value for META.JK on 2025-01-02
+2025-01-03 03:52:36,662 - INFO: Update Market Cap Value for NUSA.JK on 2025-01-02
+2025-01-03 03:52:37,008 - INFO: Update Market Cap Value for HOTL.JK on 2025-01-02
+2025-01-03 03:52:37,368 - INFO: Update Market Cap Value for TRIL.JK on 2025-01-02
+2025-01-03 03:52:38,196 - INFO: Update Market Cap Value for RIMO.JK on 2025-01-02
+2025-01-03 03:52:39,014 - INFO: Update Market Cap Value for MYRX.JK on 2025-01-02
+2025-01-03 03:52:39,833 - INFO: Update Market Cap Value for WSKT.JK on 2025-01-02
+2025-01-03 03:52:40,176 - INFO: Update Market Cap Value for SRIL.JK on 2025-01-02
+2025-01-03 03:52:40,977 - INFO: Update Market Cap Value for ARMY.JK on 2025-01-02
+2025-01-03 03:52:41,331 - INFO: Update Market Cap Value for TDPM.JK on 2025-01-02
+2025-01-03 03:52:41,675 - INFO: Update Market Cap Value for ENVY.JK on 2025-01-02
+2025-01-03 03:52:42,014 - INFO: Update Market Cap Value for SIMA.JK on 2025-01-02
+2025-01-03 03:52:42,832 - INFO: Update Market Cap Value for TECH.JK on 2025-01-02
+2025-01-03 03:52:43,183 - INFO: Update Market Cap Value for SMRU.JK on 2025-01-02
+2025-01-03 03:52:44,028 - INFO: Update Market Cap Value for HDTX.JK on 2025-01-02
+2025-01-03 03:52:44,863 - INFO: Update Market Cap Value for LCGP.JK on 2025-01-02
