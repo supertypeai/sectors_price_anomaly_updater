@@ -14747,3 +14747,15 @@
 2025-01-04 03:25:11,491 - INFO: Update Market Cap Value for RIMO.JK on 2025-01-03
 2025-01-04 03:25:11,818 - INFO: Update Market Cap Value for TECH.JK on 2025-01-03
 2025-01-04 03:25:12,131 - INFO: Update Market Cap Value for NUSA.JK on 2025-01-03
+2025-01-06 03:23:05,916 - INFO: Program add incomplete stock started
+2025-01-06 03:23:26,618 - INFO: Finish add 18 missing stocks data for 2025-01-03 in idx_daily_data_table
+2025-01-06 03:23:27,429 - INFO: Program Filling Null Market Cap Started
+2025-01-06 03:23:30,777 - INFO: Update Market Cap Value for SMRU.JK on 2025-01-03
+2025-01-06 03:23:31,663 - INFO: Update Market Cap Value for MYRX.JK on 2025-01-03
+2025-01-06 03:23:32,030 - INFO: Update Market Cap Value for WSKT.JK on 2025-01-03
+2025-01-06 03:23:32,915 - INFO: Update Market Cap Value for SRIL.JK on 2025-01-03
+2025-01-06 03:23:33,293 - INFO: Update Market Cap Value for HDTX.JK on 2025-01-03
+2025-01-06 03:23:34,173 - INFO: Update Market Cap Value for HOTL.JK on 2025-01-03
+2025-01-06 03:23:35,045 - INFO: Update Market Cap Value for ARMY.JK on 2025-01-03
+2025-01-06 03:23:35,873 - INFO: Update Market Cap Value for LCGP.JK on 2025-01-03
+2025-01-06 03:23:36,762 - INFO: Update Market Cap Value for TRIL.JK on 2025-01-03
