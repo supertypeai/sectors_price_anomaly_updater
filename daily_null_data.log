@@ -15865,3 +15865,20 @@
 2025-01-08 00:53:53,835 - INFO: Update Market Cap Value for KPAL.JK on 2025-01-07
 2025-01-08 00:53:54,132 - INFO: Update Market Cap Value for META.JK on 2025-01-07
 2025-01-08 00:53:54,422 - INFO: Update Market Cap Value for TDPM.JK on 2025-01-07
+2025-01-08 00:57:32,084 - INFO: Program add incomplete stock started
+2025-01-08 00:59:24,348 - INFO: Finish add 163 missing stocks data for 2025-01-07 in idx_daily_data_table
+2025-01-08 00:59:25,306 - INFO: Program Filling Null Market Cap Started
+2025-01-08 00:59:28,721 - INFO: Update Market Cap Value for ENVY.JK on 2025-01-07
+2025-01-08 00:59:29,654 - INFO: Update Market Cap Value for SIMA.JK on 2025-01-07
+2025-01-08 00:59:30,694 - INFO: Update Market Cap Value for RIMO.JK on 2025-01-07
+2025-01-08 00:59:31,712 - INFO: Update Market Cap Value for TECH.JK on 2025-01-07
+2025-01-08 00:59:32,102 - INFO: Update Market Cap Value for NUSA.JK on 2025-01-07
+2025-01-08 00:59:33,019 - INFO: Update Market Cap Value for SMRU.JK on 2025-01-07
+2025-01-08 00:59:33,937 - INFO: Update Market Cap Value for MYRX.JK on 2025-01-07
+2025-01-08 00:59:34,342 - INFO: Update Market Cap Value for WSKT.JK on 2025-01-07
+2025-01-08 00:59:35,217 - INFO: Update Market Cap Value for SRIL.JK on 2025-01-07
+2025-01-08 00:59:35,609 - INFO: Update Market Cap Value for HDTX.JK on 2025-01-07
+2025-01-08 00:59:36,554 - INFO: Update Market Cap Value for HOTL.JK on 2025-01-07
+2025-01-08 00:59:37,456 - INFO: Update Market Cap Value for ARMY.JK on 2025-01-07
+2025-01-08 00:59:38,354 - INFO: Update Market Cap Value for LCGP.JK on 2025-01-07
+2025-01-08 00:59:39,285 - INFO: Update Market Cap Value for TRIL.JK on 2025-01-07
