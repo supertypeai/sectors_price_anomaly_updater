@@ -15884,3 +15884,63 @@
 2025-01-08 00:59:39,285 - INFO: Update Market Cap Value for TRIL.JK on 2025-01-07
 2025-01-08 04:10:24,701 - INFO: Program started
 2025-01-08 04:10:27,229 - INFO: 943 tickers are scraped and already same with the number of active stock
+2025-01-09 00:54:41,396 - INFO: Program add incomplete stock started
+2025-01-09 00:57:17,987 - INFO: Finish add 234 missing stocks data for 2025-01-08 in idx_daily_data_table
+2025-01-09 00:57:18,795 - INFO: Program Filling Null Market Cap Started
+2025-01-09 00:57:21,412 - INFO: Update Market Cap Value for TRIO.JK on 2025-01-08
+2025-01-09 00:57:22,225 - INFO: Update Market Cap Value for CPRI.JK on 2025-01-08
+2025-01-09 00:57:23,070 - INFO: Update Market Cap Value for GOLL.JK on 2025-01-08
+2025-01-09 00:57:23,907 - INFO: Update Market Cap Value for TRAM.JK on 2025-01-08
+2025-01-09 00:57:24,726 - INFO: Update Market Cap Value for META.JK on 2025-01-08
+2025-01-09 00:57:25,552 - INFO: Update Market Cap Value for SIMA.JK on 2025-01-08
+2025-01-09 00:57:25,944 - INFO: Update Market Cap Value for RIMO.JK on 2025-01-08
+2025-01-09 00:57:26,801 - INFO: Update Market Cap Value for TECH.JK on 2025-01-08
+2025-01-09 00:57:27,636 - INFO: Update Market Cap Value for SMRU.JK on 2025-01-08
+2025-01-09 00:57:28,003 - INFO: Update Market Cap Value for SRIL.JK on 2025-01-08
+2025-01-09 00:57:28,835 - INFO: Update Market Cap Value for HOTL.JK on 2025-01-08
+2025-01-09 00:57:29,195 - INFO: Update Market Cap Value for LCGP.JK on 2025-01-08
+2025-01-09 00:57:29,540 - INFO: Update Market Cap Value for TRIL.JK on 2025-01-08
+2025-01-09 00:57:29,891 - INFO: Update Market Cap Value for KRAH.JK on 2025-01-08
+2025-01-09 00:57:30,711 - INFO: Update Market Cap Value for ETWA.JK on 2025-01-08
+2025-01-09 00:57:31,072 - INFO: Update Market Cap Value for PURE.JK on 2025-01-08
+2025-01-09 00:57:31,434 - INFO: Update Market Cap Value for KBRI.JK on 2025-01-08
+2025-01-09 00:57:32,305 - INFO: Update Market Cap Value for BOSS.JK on 2025-01-08
+2025-01-09 00:57:32,667 - INFO: Update Market Cap Value for UNIT.JK on 2025-01-08
+2025-01-09 00:57:33,022 - INFO: Update Market Cap Value for GAMA.JK on 2025-01-08
+2025-01-09 00:57:33,853 - INFO: Update Market Cap Value for OCAP.JK on 2025-01-08
+2025-01-09 00:57:34,679 - INFO: Update Market Cap Value for NIPS.JK on 2025-01-08
+2025-01-09 00:57:35,033 - INFO: Update Market Cap Value for SUGI.JK on 2025-01-08
+2025-01-09 00:57:35,845 - INFO: Update Market Cap Value for DUCK.JK on 2025-01-08
+2025-01-09 00:57:36,672 - INFO: Update Market Cap Value for MABA.JK on 2025-01-08
+2025-01-09 00:57:37,028 - INFO: Update Market Cap Value for MTRA.JK on 2025-01-08
+2025-01-09 00:57:37,395 - INFO: Update Market Cap Value for PRAS.JK on 2025-01-08
+2025-01-09 00:57:37,748 - INFO: Update Market Cap Value for DEFI.JK on 2025-01-08
+2025-01-09 00:57:38,563 - INFO: Update Market Cap Value for HOME.JK on 2025-01-08
+2025-01-09 00:57:38,917 - INFO: Update Market Cap Value for SCPI.JK on 2025-01-08
+2025-01-09 00:57:39,749 - INFO: Update Market Cap Value for WMPP.JK on 2025-01-08
+2025-01-09 00:57:40,567 - INFO: Update Market Cap Value for KPAL.JK on 2025-01-08
+2025-01-09 00:57:40,926 - INFO: Update Market Cap Value for TDPM.JK on 2025-01-08
+2025-01-09 00:57:41,287 - INFO: Update Market Cap Value for ENVY.JK on 2025-01-08
+2025-01-09 00:57:42,136 - INFO: Update Market Cap Value for NUSA.JK on 2025-01-08
+2025-01-09 00:57:42,498 - INFO: Update Market Cap Value for MYRX.JK on 2025-01-08
+2025-01-09 00:57:43,331 - INFO: Update Market Cap Value for WSKT.JK on 2025-01-08
+2025-01-09 00:57:43,697 - INFO: Update Market Cap Value for HDTX.JK on 2025-01-08
+2025-01-09 00:57:44,052 - INFO: Update Market Cap Value for ARMY.JK on 2025-01-08
+2025-01-09 00:57:44,405 - INFO: Update Market Cap Value for MAMI.JK on 2025-01-08
+2025-01-09 00:57:44,759 - INFO: Update Market Cap Value for LMAS.JK on 2025-01-08
+2025-01-09 00:57:45,122 - INFO: Update Market Cap Value for JKSW.JK on 2025-01-08
+2025-01-09 00:57:45,495 - INFO: Update Market Cap Value for POOL.JK on 2025-01-08
+2025-01-09 00:57:45,855 - INFO: Update Market Cap Value for MAGP.JK on 2025-01-08
+2025-01-09 00:57:46,223 - INFO: Update Market Cap Value for SKYB.JK on 2025-01-08
+2025-01-09 00:57:47,081 - INFO: Update Market Cap Value for COWL.JK on 2025-01-08
+2025-01-09 00:57:47,437 - INFO: Update Market Cap Value for POSA.JK on 2025-01-08
+2025-01-09 00:57:48,251 - INFO: Update Market Cap Value for IIKP.JK on 2025-01-08
+2025-01-09 00:57:48,600 - INFO: Update Market Cap Value for BTEL.JK on 2025-01-08
+2025-01-09 00:57:48,958 - INFO: Update Market Cap Value for CBMF.JK on 2025-01-08
+2025-01-09 00:57:49,323 - INFO: Update Market Cap Value for FORZ.JK on 2025-01-08
+2025-01-09 00:57:49,678 - INFO: Update Market Cap Value for JSKY.JK on 2025-01-08
+2025-01-09 00:57:50,032 - INFO: Update Market Cap Value for PLAS.JK on 2025-01-08
+2025-01-09 00:57:50,395 - INFO: Update Market Cap Value for KPAS.JK on 2025-01-08
+2025-01-09 00:57:50,752 - INFO: Update Market Cap Value for KAYU.JK on 2025-01-08
+2025-01-09 00:57:51,111 - INFO: Update Market Cap Value for DEAL.JK on 2025-01-08
+2025-01-09 00:57:51,468 - INFO: Update Market Cap Value for HKMU.JK on 2025-01-08
