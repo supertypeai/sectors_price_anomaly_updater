@@ -18073,3 +18073,9 @@
 2025-01-23 02:28:48,764 - INFO: Update Market Cap Value for HDTX.JK on 2025-01-22
 2025-01-23 02:28:49,148 - INFO: Update Market Cap Value for HAJJ.JK on 2025-01-22
 2025-01-23 02:28:49,537 - INFO: Update Market Cap Value for HOTL.JK on 2025-01-22
+2025-01-23 03:19:44,308 - INFO: Program add incomplete stock started
+2025-01-23 03:20:06,078 - INFO: Finish add 18 missing stocks data for 2025-01-22 in idx_daily_data_table
+2025-01-23 03:20:06,867 - INFO: Program Filling Null Market Cap Started
+2025-01-23 03:20:09,876 - INFO: Update Market Cap Value for ARMY.JK on 2025-01-22
+2025-01-23 03:20:10,815 - INFO: Update Market Cap Value for LCGP.JK on 2025-01-22
+2025-01-23 03:20:11,713 - INFO: Update Market Cap Value for TRIL.JK on 2025-01-22
