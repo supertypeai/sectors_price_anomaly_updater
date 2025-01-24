@@ -18256,3 +18256,10 @@
 2025-01-24 01:54:07,309 - INFO: Update Market Cap Value for SMRU.JK on 2025-01-23
 2025-01-24 01:54:07,682 - INFO: Update Market Cap Value for MYRX.JK on 2025-01-23
 2025-01-24 01:54:08,573 - INFO: Update Market Cap Value for HOMI.JK on 2025-01-23
+2025-01-24 02:23:39,629 - INFO: Program add incomplete stock started
+2025-01-24 02:24:25,648 - INFO: Finish add 39 missing stocks data for 2025-01-23 in idx_daily_data_table
+2025-01-24 02:24:26,426 - INFO: Program Filling Null Market Cap Started
+2025-01-24 02:24:28,553 - INFO: Update Market Cap Value for HOTL.JK on 2025-01-23
+2025-01-24 02:24:29,257 - INFO: Update Market Cap Value for ARMY.JK on 2025-01-23
+2025-01-24 02:24:29,930 - INFO: Update Market Cap Value for LCGP.JK on 2025-01-23
+2025-01-24 02:24:30,609 - INFO: Update Market Cap Value for TRIL.JK on 2025-01-23
