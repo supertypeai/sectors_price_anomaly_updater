@@ -19153,3 +19153,25 @@
 2025-02-06 02:32:08,424 - INFO: Update Market Cap Value for CPRI.JK on 2025-02-05
 2025-02-06 02:32:08,774 - INFO: Update Market Cap Value for GOLL.JK on 2025-02-05
 2025-02-06 02:32:09,647 - INFO: Update Market Cap Value for MPMX.JK on 2025-02-05
+2025-02-06 02:49:03,830 - INFO: Program add incomplete stock started
+2025-02-06 02:51:06,468 - INFO: Finish add 216 missing stocks data for 2025-02-05 in idx_daily_data_table
+2025-02-06 02:51:07,249 - INFO: Program Filling Null Market Cap Started
+2025-02-06 02:51:09,780 - INFO: Update Market Cap Value for WMPP.JK on 2025-02-05
+2025-02-06 02:51:10,073 - INFO: Update Market Cap Value for TRAM.JK on 2025-02-05
+2025-02-06 02:51:10,748 - INFO: Update Market Cap Value for KPAL.JK on 2025-02-05
+2025-02-06 02:51:11,428 - INFO: Update Market Cap Value for RIMO.JK on 2025-02-05
+2025-02-06 02:51:12,105 - INFO: Update Market Cap Value for META.JK on 2025-02-05
+2025-02-06 02:51:12,769 - INFO: Update Market Cap Value for ENVY.JK on 2025-02-05
+2025-02-06 02:51:13,064 - INFO: Update Market Cap Value for NUSA.JK on 2025-02-05
+2025-02-06 02:51:13,737 - INFO: Update Market Cap Value for SMRU.JK on 2025-02-05
+2025-02-06 02:51:14,024 - INFO: Update Market Cap Value for TDPM.JK on 2025-02-05
+2025-02-06 02:51:14,315 - INFO: Update Market Cap Value for SIMA.JK on 2025-02-05
+2025-02-06 02:51:14,619 - INFO: Update Market Cap Value for TECH.JK on 2025-02-05
+2025-02-06 02:51:14,918 - INFO: Update Market Cap Value for MYRX.JK on 2025-02-05
+2025-02-06 02:51:15,588 - INFO: Update Market Cap Value for WSKT.JK on 2025-02-05
+2025-02-06 02:51:15,884 - INFO: Update Market Cap Value for SRIL.JK on 2025-02-05
+2025-02-06 02:51:16,553 - INFO: Update Market Cap Value for HDTX.JK on 2025-02-05
+2025-02-06 02:51:16,842 - INFO: Update Market Cap Value for HOTL.JK on 2025-02-05
+2025-02-06 02:51:17,507 - INFO: Update Market Cap Value for TRIL.JK on 2025-02-05
+2025-02-06 02:51:17,799 - INFO: Update Market Cap Value for LCGP.JK on 2025-02-05
+2025-02-06 02:51:18,470 - INFO: Update Market Cap Value for ARMY.JK on 2025-02-05
