@@ -19431,3 +19431,10 @@
 2025-02-11 02:34:49,177 - INFO: Update Market Cap Value for SMRU.JK on 2025-02-10
 2025-02-11 02:34:49,468 - INFO: Update Market Cap Value for SRIL.JK on 2025-02-10
 2025-02-11 02:34:49,760 - INFO: Update Market Cap Value for HDTX.JK on 2025-02-10
+2025-02-11 02:52:50,630 - INFO: Program add incomplete stock started
+2025-02-11 02:53:16,527 - INFO: Finish add 25 missing stocks data for 2025-02-10 in idx_daily_data_table
+2025-02-11 02:53:17,295 - INFO: Program Filling Null Market Cap Started
+2025-02-11 02:53:20,345 - INFO: Update Market Cap Value for HOTL.JK on 2025-02-10
+2025-02-11 02:53:21,128 - INFO: Update Market Cap Value for ARMY.JK on 2025-02-10
+2025-02-11 02:53:21,935 - INFO: Update Market Cap Value for LCGP.JK on 2025-02-10
+2025-02-11 02:53:22,759 - INFO: Update Market Cap Value for TRIL.JK on 2025-02-10
