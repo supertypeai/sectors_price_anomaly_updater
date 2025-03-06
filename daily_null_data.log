@@ -19836,3 +19836,5 @@
 2025-03-05 03:25:25,117 - INFO: Update Market Cap Value for TRIO.JK on 2025-03-04
 2025-03-05 04:10:34,953 - INFO: Program started
 2025-03-05 04:10:37,925 - INFO: 951 tickers are scraped and already same with the number of active stock
+2025-03-06 04:10:42,336 - INFO: Program started
+2025-03-06 04:10:45,237 - ERROR: 840 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
