@@ -19893,3 +19893,12 @@
 2025-03-13 03:27:45,308 - INFO: Update Market Cap Value for TRIO.JK on 2025-03-12
 2025-03-13 04:10:41,104 - INFO: Program started
 2025-03-13 04:10:43,293 - INFO: 951 tickers are scraped and already same with the number of active stock
+2025-03-14 03:25:32,465 - INFO: Program add incomplete stock started
+2025-03-14 03:26:46,798 - INFO: Finish add 111 missing stocks data for 2025-03-13 in idx_daily_data_table
+2025-03-14 03:26:47,595 - INFO: Program Filling Null Market Cap Started
+2025-03-14 03:26:50,370 - INFO: Update Market Cap Value for HDTX.JK on 2025-03-13
+2025-03-14 03:26:50,611 - INFO: Update Market Cap Value for NIPS.JK on 2025-03-13
+2025-03-14 03:26:51,331 - INFO: Update Market Cap Value for SCPI.JK on 2025-03-13
+2025-03-14 03:26:51,578 - INFO: Update Market Cap Value for SUGI.JK on 2025-03-13
+2025-03-14 03:26:52,288 - INFO: Update Market Cap Value for TRIL.JK on 2025-03-13
+2025-03-14 03:26:52,982 - INFO: Update Market Cap Value for TRIO.JK on 2025-03-13
