@@ -27,7 +27,7 @@ iniconfig==2.1.0
 MarkupSafe==3.0.2
 multidict==6.4.3
 multitasking==0.0.11
-numpy==2.2.5
+numpy==2.0.2
 packaging==25.0
 pandas==2.2.3
 peewee==3.18.1
