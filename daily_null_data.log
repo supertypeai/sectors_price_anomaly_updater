@@ -20269,3 +20269,13 @@
 2025-05-21 03:41:47,623 - INFO: Update Market Cap Value for NIPS.JK on 2025-05-20
 2025-05-21 04:13:12,947 - INFO: Program started
 2025-05-21 04:13:16,073 - INFO: 956 tickers are scraped and already same with the number of active stock
+2025-05-22 03:40:39,044 - INFO: Program add incomplete stock started
+2025-05-22 03:40:48,740 - ERROR: $DKHH.JK: possibly delisted; no price data found  (1d 2025-05-21 -> 2025-05-22)
+2025-05-22 03:41:52,714 - INFO: Finish add 103 missing stocks data for 2025-05-21 in idx_daily_data_table
+2025-05-22 03:41:53,535 - INFO: Program Filling Null Market Cap Started
+2025-05-22 03:41:56,345 - INFO: Update Market Cap Value for HDTX.JK on 2025-05-21
+2025-05-22 03:41:57,029 - INFO: Update Market Cap Value for NIPS.JK on 2025-05-21
+2025-05-22 03:41:57,711 - INFO: Update Market Cap Value for SCPI.JK on 2025-05-21
+2025-05-22 03:41:58,402 - INFO: Update Market Cap Value for TRIO.JK on 2025-05-21
+2025-05-22 03:41:59,078 - INFO: Update Market Cap Value for SUGI.JK on 2025-05-21
+2025-05-22 03:41:59,787 - INFO: Update Market Cap Value for TRIL.JK on 2025-05-21
