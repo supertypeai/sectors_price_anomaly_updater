@@ -3,7 +3,7 @@ name: Incomplete Stock and Null Market Cap Handler
 
 on:
   schedule:
-    - cron: '0 3 * * 1-6' # Run every monday-saturday at 10.00am (Western Indonesia Time)
+    - cron: '0 3 * * 2-6' # Run every teusday-saturday at 10.00am (Western Indonesia Time)
   
   workflow_dispatch:
       
