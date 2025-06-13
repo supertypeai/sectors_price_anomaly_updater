@@ -20503,3 +20503,12 @@
 2025-06-12 03:48:11,384 - INFO: Update Market Cap Value for WMPP.JK on 2025-06-11
 2025-06-12 04:17:01,826 - INFO: Program started
 2025-06-12 04:17:04,714 - INFO: 956 tickers are scraped and already same with the number of active stock
+2025-06-13 03:46:34,635 - INFO: Program add incomplete stock started
+2025-06-13 03:50:41,732 - INFO: Finish add 425 missing stocks data for 2025-06-12 in idx_daily_data_table
+2025-06-13 03:50:42,533 - INFO: Program Filling Null Market Cap Started
+2025-06-13 03:50:45,798 - INFO: Update Market Cap Value for HDTX.JK on 2025-06-12
+2025-06-13 03:50:46,573 - INFO: Update Market Cap Value for NIPS.JK on 2025-06-12
+2025-06-13 03:50:47,322 - INFO: Update Market Cap Value for SCPI.JK on 2025-06-12
+2025-06-13 03:50:48,541 - INFO: Update Market Cap Value for SUGI.JK on 2025-06-12
+2025-06-13 03:50:49,291 - INFO: Update Market Cap Value for TRIL.JK on 2025-06-12
+2025-06-13 03:50:50,129 - INFO: Update Market Cap Value for TRIO.JK on 2025-06-12
