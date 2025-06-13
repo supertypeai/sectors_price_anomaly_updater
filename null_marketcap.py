@@ -36,6 +36,39 @@ def convert_numpy_int64(data):
 
 initiate_logging(LOG_FILENAME)
 
+# Update anomaly marketcap
+date_response = supabase.table("idx_daily_data") \
+    .select("date") \
+    .order("date.desc") \
+    .limit(2) \
+    .execute()
+
+today = datetime.utcnow().date()
+last_two_days = [str(today - timedelta(days=1)), str(today - timedelta(days=2))]
+
+mcap_data = supabase.table("idx_daily_data") \
+    .select("symbol", "date", "close", "market_cap") \
+    .in_("date", last_two_days) \
+    .execute()
+
+df = pd.DataFrame(mcap_data.data).sort_values(['symbol','date'])
+
+df['mcap_diff'] = df.groupby('symbol')['market_cap'].pct_change().abs() * 100
+df['price_diff'] = df.groupby('symbol')['close'].pct_change().abs() * 100
+
+df = df[(df['mcap_diff'] != df['price_diff']) & (df['mcap_diff']>34.56)].dropna()
+
+df['market_cap'] = None
+
+df.reset_index(inplace=True, drop=True)
+
+for i in range (0,df.shape[0]):
+    supabase.table("idx_daily_data").update(
+                {"market_cap": convert_numpy_int64(df.iloc[i].market_cap)}
+            ).eq("symbol", df.iloc[i].symbol).eq("date", df.iloc[i].date).execute()
+    
+
+# Update Null market cap    
 today_date = datetime.today().date()
 
 response = supabase.table('idx_daily_data').select('date').order('date', desc=True).execute()
