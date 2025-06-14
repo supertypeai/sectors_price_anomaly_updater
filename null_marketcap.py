@@ -56,7 +56,7 @@ df = pd.DataFrame(mcap_data.data).sort_values(['symbol','date'])
 df['mcap_diff'] = df.groupby('symbol')['market_cap'].pct_change().abs() * 100
 df['price_diff'] = df.groupby('symbol')['close'].pct_change().abs() * 100
 
-df = df[(df['mcap_diff'] != df['price_diff']) & (df['mcap_diff']>34.56)].dropna()
+df = df[(df['mcap_diff'] != df['price_diff']) & (df['mcap_diff']>50)].dropna()
 
 df['market_cap'] = None
 
