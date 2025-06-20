@@ -37,12 +37,6 @@ def convert_numpy_int64(data):
 initiate_logging(LOG_FILENAME)
 
 # Update anomaly marketcap
-date_response = supabase.table("idx_daily_data") \
-    .select("date") \
-    .order("date.desc") \
-    .limit(2) \
-    .execute()
-
 today = datetime.utcnow().date()
 last_two_days = [str(today - timedelta(days=1)), str(today - timedelta(days=2))]
 
