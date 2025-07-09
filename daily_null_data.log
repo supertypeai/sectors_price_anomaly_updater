@@ -20735,3 +20735,5 @@
 2025-07-09 03:53:47,749 - INFO: Update Market Cap Value for NIPS.JK on 2025-07-08
 2025-07-09 03:53:47,973 - INFO: Update Market Cap Value for SCPI.JK on 2025-07-08
 2025-07-09 03:53:48,584 - INFO: Update Market Cap Value for TRIL.JK on 2025-07-08
+2025-07-09 04:24:22,883 - INFO: Program started
+2025-07-09 04:24:24,769 - ERROR: 955 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
