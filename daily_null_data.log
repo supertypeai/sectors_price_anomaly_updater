@@ -20725,3 +20725,13 @@
 2025-07-08 03:51:06,094 - INFO: Update Market Cap Value for TRIO.JK on 2025-07-07
 2025-07-08 04:20:30,678 - INFO: Program started
 2025-07-08 04:20:33,574 - ERROR: 955 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
+2025-07-09 03:52:31,477 - INFO: Program add incomplete stock started
+2025-07-09 03:52:39,257 - ERROR: $DKHH.JK: possibly delisted; no price data found  (1d 2025-07-08 -> 2025-07-09)
+2025-07-09 03:53:43,224 - INFO: Finish add 123 missing stocks data for 2025-07-08 in idx_daily_data_table
+2025-07-09 03:53:44,086 - INFO: Program Filling Null Market Cap Started
+2025-07-09 03:53:46,259 - INFO: Update Market Cap Value for SUGI.JK on 2025-07-08
+2025-07-09 03:53:46,883 - INFO: Update Market Cap Value for TRIO.JK on 2025-07-08
+2025-07-09 03:53:47,524 - INFO: Update Market Cap Value for HDTX.JK on 2025-07-08
+2025-07-09 03:53:47,749 - INFO: Update Market Cap Value for NIPS.JK on 2025-07-08
+2025-07-09 03:53:47,973 - INFO: Update Market Cap Value for SCPI.JK on 2025-07-08
+2025-07-09 03:53:48,584 - INFO: Update Market Cap Value for TRIL.JK on 2025-07-08
