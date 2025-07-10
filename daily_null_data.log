@@ -20747,3 +20747,5 @@
 2025-07-10 03:53:25,620 - INFO: Update Market Cap Value for SCPI.JK on 2025-07-09
 2025-07-10 03:53:26,419 - INFO: Update Market Cap Value for TRIO.JK on 2025-07-09
 2025-07-10 03:53:26,710 - INFO: Update Market Cap Value for TRIL.JK on 2025-07-09
+2025-07-10 04:22:32,320 - INFO: Program started
+2025-07-10 04:22:34,845 - ERROR: 955 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
