@@ -1,8 +1,6 @@
 pandas==2.2.3
 python-dotenv==1.0.1
-pyrate-limiter==3.7.1
 requests==2.32.3
-requests-ratelimiter==0.7.0
 sendgrid==6.12.2
 supabase==2.16.0
 yfinance==0.2.61
