@@ -20810,3 +20810,5 @@
 2025-07-18 03:59:58,810 - INFO: Update Market Cap Value for SCPI.JK on 2025-07-17
 2025-07-18 03:59:59,075 - INFO: Update Market Cap Value for SUGI.JK on 2025-07-17
 2025-07-18 03:59:59,328 - INFO: Update Market Cap Value for TRIO.JK on 2025-07-17
+2025-07-18 04:29:43,148 - INFO: Program started
+2025-07-18 04:29:46,169 - ERROR: 963 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
