@@ -21098,3 +21098,10 @@
 2025-08-30 03:29:20,066 - INFO: Update Market Cap Value for TRIO.JK on 2025-08-29
 2025-09-01 04:19:59,332 - INFO: Program started
 2025-09-01 04:20:02,075 - ERROR: 953 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
+2025-09-02 03:37:31,051 - INFO: Program add incomplete stock started
+2025-09-02 03:38:34,203 - INFO: Finish add 106 missing stocks data for 2025-09-01 in idx_daily_data_table
+2025-09-02 03:38:35,203 - INFO: Program Filling Null Market Cap Started
+2025-09-02 03:38:39,618 - INFO: Update Market Cap Value for SCPI.JK on 2025-09-01
+2025-09-02 03:38:39,911 - INFO: Update Market Cap Value for TRIL.JK on 2025-09-01
+2025-09-02 03:38:40,704 - INFO: Update Market Cap Value for SUGI.JK on 2025-09-01
+2025-09-02 03:38:41,519 - INFO: Update Market Cap Value for TRIO.JK on 2025-09-01
