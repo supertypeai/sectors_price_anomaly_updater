@@ -21138,3 +21138,11 @@
 2025-09-05 04:10:58,071 - ERROR: 953 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
 2025-09-08 04:11:12,661 - INFO: Program started
 2025-09-08 04:11:15,600 - INFO: 954 tickers are scraped and already same with the number of active stock
+2025-09-09 03:32:15,433 - INFO: Program add incomplete stock started
+2025-09-09 03:32:34,712 - ERROR: $MYTX.JK: possibly delisted; no timezone found
+2025-09-09 03:33:25,695 - INFO: Finish add 114 missing stocks data for 2025-09-08 in idx_daily_data_table
+2025-09-09 03:33:26,525 - INFO: Program Filling Null Market Cap Started
+2025-09-09 03:33:30,024 - INFO: Update Market Cap Value for SCPI.JK on 2025-09-08
+2025-09-09 03:33:30,317 - INFO: Update Market Cap Value for SUGI.JK on 2025-09-08
+2025-09-09 03:33:30,558 - INFO: Update Market Cap Value for TRIL.JK on 2025-09-08
+2025-09-09 03:33:30,818 - INFO: Update Market Cap Value for TRIO.JK on 2025-09-08
