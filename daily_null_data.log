@@ -21146,3 +21146,5 @@
 2025-09-09 03:33:30,317 - INFO: Update Market Cap Value for SUGI.JK on 2025-09-08
 2025-09-09 03:33:30,558 - INFO: Update Market Cap Value for TRIL.JK on 2025-09-08
 2025-09-09 03:33:30,818 - INFO: Update Market Cap Value for TRIO.JK on 2025-09-08
+2025-09-09 04:10:49,242 - INFO: Program started
+2025-09-09 04:10:52,004 - ERROR: 953 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
