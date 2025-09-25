@@ -21254,3 +21254,5 @@
 2025-09-25 03:32:55,862 - INFO: Finish add 50 missing stocks data for 2025-09-23 in idx_daily_data_table
 2025-09-25 03:32:56,678 - INFO: Program Filling Null Market Cap Started
 2025-09-25 03:33:00,650 - INFO: Update Market Cap Value for SUGI.JK on 2025-09-23
+2025-09-25 04:10:49,736 - INFO: Program started
+2025-09-25 04:10:52,732 - ERROR: 955 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
