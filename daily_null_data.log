@@ -21250,3 +21250,7 @@
 2025-09-23 04:10:54,265 - ERROR: 953 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
 2025-09-24 04:10:52,408 - INFO: Program started
 2025-09-24 04:10:55,294 - INFO: 954 tickers are scraped and already same with the number of active stock
+2025-09-25 03:32:07,783 - INFO: Program add incomplete stock started
+2025-09-25 03:32:55,862 - INFO: Finish add 50 missing stocks data for 2025-09-23 in idx_daily_data_table
+2025-09-25 03:32:56,678 - INFO: Program Filling Null Market Cap Started
+2025-09-25 03:33:00,650 - INFO: Update Market Cap Value for SUGI.JK on 2025-09-23
