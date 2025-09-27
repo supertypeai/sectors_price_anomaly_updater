@@ -3,5 +3,5 @@ python-dotenv==1.0.1
 requests==2.32.3
 sendgrid==6.12.2
 supabase==2.16.0
-yfinance==0.2.61
+yfinance==0.2.66
 pyrate-limiter==2.9.0
