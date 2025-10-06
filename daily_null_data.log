@@ -21290,3 +21290,5 @@
 2025-10-04 03:23:18,161 - INFO: Update Market Cap Value for TRIL.JK on 2025-10-03
 2025-10-04 03:23:18,461 - INFO: Update Market Cap Value for TRIO.JK on 2025-10-03
 2025-10-04 03:23:18,746 - INFO: Update Market Cap Value for MFIN.JK on 2025-10-03
+2025-10-06 04:10:55,389 - INFO: Program started
+2025-10-06 04:10:58,824 - ERROR: 955 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
