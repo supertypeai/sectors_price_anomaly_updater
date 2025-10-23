@@ -21406,3 +21406,12 @@
 2025-10-22 03:43:37,634 - INFO: Update Market Cap Value for TRIO.JK on 2025-10-21
 2025-10-22 04:12:26,089 - INFO: Program started
 2025-10-22 04:12:27,955 - INFO: 954 tickers are scraped and already same with the number of active stock
+2025-10-23 03:35:06,743 - INFO: Program add incomplete stock started
+2025-10-23 03:35:23,067 - ERROR: $MYTX.JK: possibly delisted; no timezone found
+2025-10-23 03:35:59,578 - INFO: Finish add 103 missing stocks data for 2025-10-22 in idx_daily_data_table
+2025-10-23 03:36:00,355 - INFO: Program Filling Null Market Cap Started
+2025-10-23 03:36:02,456 - INFO: Update Market Cap Value for BUAH.JK on 2025-10-22
+2025-10-23 03:36:02,680 - INFO: Update Market Cap Value for SUGI.JK on 2025-10-22
+2025-10-23 03:36:02,922 - INFO: Update Market Cap Value for TRIO.JK on 2025-10-22
+2025-10-23 03:36:03,173 - INFO: Update Market Cap Value for SCPI.JK on 2025-10-22
+2025-10-23 03:36:03,407 - INFO: Update Market Cap Value for TRIL.JK on 2025-10-22
