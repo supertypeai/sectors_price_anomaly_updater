@@ -21427,3 +21427,11 @@
 2025-10-24 03:32:54,389 - INFO: Update Market Cap Value for TRIL.JK on 2025-10-23
 2025-10-24 04:10:46,345 - INFO: Program started
 2025-10-24 04:10:48,164 - INFO: 954 tickers are scraped and already same with the number of active stock
+2025-10-25 03:33:20,712 - INFO: Program add incomplete stock started
+2025-10-25 03:34:21,284 - INFO: Finish add 103 missing stocks data for 2025-10-24 in idx_daily_data_table
+2025-10-25 03:34:22,080 - INFO: Program Filling Null Market Cap Started
+2025-10-25 03:34:24,582 - INFO: Update Market Cap Value for BUAH.JK on 2025-10-24
+2025-10-25 03:34:24,842 - INFO: Update Market Cap Value for SUGI.JK on 2025-10-24
+2025-10-25 03:34:25,132 - INFO: Update Market Cap Value for TRIO.JK on 2025-10-24
+2025-10-25 03:34:25,398 - INFO: Update Market Cap Value for SCPI.JK on 2025-10-24
+2025-10-25 03:34:25,664 - INFO: Update Market Cap Value for TRIL.JK on 2025-10-24
