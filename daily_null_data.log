@@ -21513,3 +21513,5 @@
 2025-11-06 03:47:20,798 - INFO: Update Market Cap Value for TRIL.JK on 2025-11-05
 2025-11-06 04:15:40,185 - INFO: Program started
 2025-11-06 04:15:42,060 - INFO: 953 tickers are scraped and already same with the number of active stock
+2025-11-07 04:12:29,156 - INFO: Program started
+2025-11-07 04:12:31,088 - ERROR: 849 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
