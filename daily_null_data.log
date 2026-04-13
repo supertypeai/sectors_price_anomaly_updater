@@ -21735,3 +21735,5 @@
 2026-04-09 05:43:24,961 - INFO: 956 tickers are scraped and already same with the number of active stock
 2026-04-10 05:51:29,462 - INFO: Program started
 2026-04-10 05:51:31,314 - INFO: 956 tickers are scraped and already same with the number of active stock
+2026-04-13 06:07:08,231 - INFO: Program started
+2026-04-13 06:07:10,402 - ERROR: 956 tickers are scraped, not same with number of active stock, please checked the pipeline and revised it
